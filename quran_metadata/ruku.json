@@ -1,0 +1,5006 @@
+[
+    {
+        "index": "001",
+        "manzil": "1",
+        "suraIndex": "001",
+        "suraName": "Al-Fatiha",
+        "suraNameAr": "الفاتحة",
+        "start": "verse_1",
+        "end": "verse_7"
+    },
+    {
+        "index": "002",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_1",
+        "end": "verse_7"
+    },
+    {
+        "index": "003",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_8",
+        "end": "verse_20"
+    },
+    {
+        "index": "004",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_21",
+        "end": "verse_29"
+    },
+    {
+        "index": "005",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_30",
+        "end": "verse_39"
+    },
+    {
+        "index": "006",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_40",
+        "end": "verse_46"
+    },
+    {
+        "index": "007",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_47",
+        "end": "verse_59"
+    },
+    {
+        "index": "008",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_60",
+        "end": "verse_61"
+    },
+    {
+        "index": "009",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_62",
+        "end": "verse_71"
+    },
+    {
+        "index": "010",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_72",
+        "end": "verse_82"
+    },
+    {
+        "index": "011",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_83",
+        "end": "verse_86"
+    },
+    {
+        "index": "012",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_87",
+        "end": "verse_96"
+    },
+    {
+        "index": "013",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_97",
+        "end": "verse_103"
+    },
+    {
+        "index": "014",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_104",
+        "end": "verse_112"
+    },
+    {
+        "index": "015",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_113",
+        "end": "verse_121"
+    },
+    {
+        "index": "016",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_122",
+        "end": "verse_129"
+    },
+    {
+        "index": "017",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_130",
+        "end": "verse_141"
+    },
+    {
+        "index": "018",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_142",
+        "end": "verse_147"
+    },
+    {
+        "index": "019",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_148",
+        "end": "verse_152"
+    },
+    {
+        "index": "020",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_153",
+        "end": "verse_163"
+    },
+    {
+        "index": "021",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_164",
+        "end": "verse_167"
+    },
+    {
+        "index": "022",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_168",
+        "end": "verse_176"
+    },
+    {
+        "index": "023",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_177",
+        "end": "verse_182"
+    },
+    {
+        "index": "024",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_183",
+        "end": "verse_188"
+    },
+    {
+        "index": "025",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_189",
+        "end": "verse_196"
+    },
+    {
+        "index": "026",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_197",
+        "end": "verse_210"
+    },
+    {
+        "index": "027",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_211",
+        "end": "verse_216"
+    },
+    {
+        "index": "028",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_217",
+        "end": "verse_221"
+    },
+    {
+        "index": "029",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_222",
+        "end": "verse_228"
+    },
+    {
+        "index": "030",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_229",
+        "end": "verse_231"
+    },
+    {
+        "index": "031",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_232",
+        "end": "verse_235"
+    },
+    {
+        "index": "032",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_236",
+        "end": "verse_242"
+    },
+    {
+        "index": "033",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_243",
+        "end": "verse_248"
+    },
+    {
+        "index": "034",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_249",
+        "end": "verse_253"
+    },
+    {
+        "index": "035",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_254",
+        "end": "verse_257"
+    },
+    {
+        "index": "036",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_258",
+        "end": "verse_260"
+    },
+    {
+        "index": "037",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_261",
+        "end": "verse_266"
+    },
+    {
+        "index": "038",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_267",
+        "end": "verse_273"
+    },
+    {
+        "index": "039",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_274",
+        "end": "verse_281"
+    },
+    {
+        "index": "040",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_282",
+        "end": "verse_283"
+    },
+    {
+        "index": "041",
+        "manzil": "1",
+        "suraIndex": "002",
+        "suraName": "Al-Baqara",
+        "suraNameAr": "البقرة",
+        "start": "verse_284",
+        "end": "verse_286"
+    },
+    {
+        "index": "042",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_1",
+        "end": "verse_9"
+    },
+    {
+        "index": "043",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_10",
+        "end": "verse_20"
+    },
+    {
+        "index": "044",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_21",
+        "end": "verse_30"
+    },
+    {
+        "index": "045",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_31",
+        "end": "verse_41"
+    },
+    {
+        "index": "046",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_42",
+        "end": "verse_54"
+    },
+    {
+        "index": "047",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_55",
+        "end": "verse_63"
+    },
+    {
+        "index": "048",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_64",
+        "end": "verse_71"
+    },
+    {
+        "index": "049",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_72",
+        "end": "verse_80"
+    },
+    {
+        "index": "050",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_81",
+        "end": "verse_91"
+    },
+    {
+        "index": "051",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_92",
+        "end": "verse_101"
+    },
+    {
+        "index": "052",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_102",
+        "end": "verse_109"
+    },
+    {
+        "index": "053",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_110",
+        "end": "verse_120"
+    },
+    {
+        "index": "054",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_121",
+        "end": "verse_129"
+    },
+    {
+        "index": "055",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_130",
+        "end": "verse_143"
+    },
+    {
+        "index": "056",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_144",
+        "end": "verse_148"
+    },
+    {
+        "index": "057",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_149",
+        "end": "verse_155"
+    },
+    {
+        "index": "058",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_156",
+        "end": "verse_171"
+    },
+    {
+        "index": "059",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_172",
+        "end": "verse_180"
+    },
+    {
+        "index": "060",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_181",
+        "end": "verse_189"
+    },
+    {
+        "index": "061",
+        "manzil": "1",
+        "suraIndex": "003",
+        "suraName": "Aal-Imran",
+        "suraNameAr": "آل عمران",
+        "start": "verse_190",
+        "end": "verse_200"
+    },
+    {
+        "index": "062",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "063",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_11",
+        "end": "verse_14"
+    },
+    {
+        "index": "064",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_15",
+        "end": "verse_22"
+    },
+    {
+        "index": "065",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_23",
+        "end": "verse_25"
+    },
+    {
+        "index": "066",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_26",
+        "end": "verse_33"
+    },
+    {
+        "index": "067",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_34",
+        "end": "verse_42"
+    },
+    {
+        "index": "068",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_43",
+        "end": "verse_50"
+    },
+    {
+        "index": "069",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_51",
+        "end": "verse_59"
+    },
+    {
+        "index": "070",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_60",
+        "end": "verse_70"
+    },
+    {
+        "index": "071",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_71",
+        "end": "verse_76"
+    },
+    {
+        "index": "072",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_77",
+        "end": "verse_87"
+    },
+    {
+        "index": "073",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_88",
+        "end": "verse_91"
+    },
+    {
+        "index": "074",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_92",
+        "end": "verse_96"
+    },
+    {
+        "index": "075",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_97",
+        "end": "verse_100"
+    },
+    {
+        "index": "076",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_101",
+        "end": "verse_104"
+    },
+    {
+        "index": "077",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_105",
+        "end": "verse_112"
+    },
+    {
+        "index": "078",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_113",
+        "end": "verse_115"
+    },
+    {
+        "index": "079",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_116",
+        "end": "verse_126"
+    },
+    {
+        "index": "080",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_127",
+        "end": "verse_134"
+    },
+    {
+        "index": "081",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_135",
+        "end": "verse_141"
+    },
+    {
+        "index": "082",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_142",
+        "end": "verse_152"
+    },
+    {
+        "index": "083",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_153",
+        "end": "verse_162"
+    },
+    {
+        "index": "084",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_163",
+        "end": "verse_171"
+    },
+    {
+        "index": "085",
+        "manzil": "1",
+        "suraIndex": "004",
+        "suraName": "An-Nisaa'",
+        "suraNameAr": "النساء",
+        "start": "verse_172",
+        "end": "verse_176"
+    },
+    {
+        "index": "086",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_1",
+        "end": "verse_5"
+    },
+    {
+        "index": "087",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_6",
+        "end": "verse_11"
+    },
+    {
+        "index": "088",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_12",
+        "end": "verse_19"
+    },
+    {
+        "index": "089",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_20",
+        "end": "verse_26"
+    },
+    {
+        "index": "090",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_27",
+        "end": "verse_34"
+    },
+    {
+        "index": "091",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_35",
+        "end": "verse_43"
+    },
+    {
+        "index": "092",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_44",
+        "end": "verse_50"
+    },
+    {
+        "index": "093",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_51",
+        "end": "verse_56"
+    },
+    {
+        "index": "094",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_57",
+        "end": "verse_66"
+    },
+    {
+        "index": "095",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_67",
+        "end": "verse_77"
+    },
+    {
+        "index": "096",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_78",
+        "end": "verse_86"
+    },
+    {
+        "index": "097",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_87",
+        "end": "verse_93"
+    },
+    {
+        "index": "098",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_94",
+        "end": "verse_100"
+    },
+    {
+        "index": "099",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_101",
+        "end": "verse_108"
+    },
+    {
+        "index": "100",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_109",
+        "end": "verse_115"
+    },
+    {
+        "index": "101",
+        "manzil": "2",
+        "suraIndex": "005",
+        "suraName": "Al-Ma'ida",
+        "suraNameAr": "المائدة",
+        "start": "verse_116",
+        "end": "verse_120"
+    },
+    {
+        "index": "102",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "103",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_11",
+        "end": "verse_20"
+    },
+    {
+        "index": "104",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_21",
+        "end": "verse_30"
+    },
+    {
+        "index": "105",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_31",
+        "end": "verse_41"
+    },
+    {
+        "index": "106",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_42",
+        "end": "verse_50"
+    },
+    {
+        "index": "107",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_51",
+        "end": "verse_55"
+    },
+    {
+        "index": "108",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_56",
+        "end": "verse_60"
+    },
+    {
+        "index": "109",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_61",
+        "end": "verse_70"
+    },
+    {
+        "index": "110",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_71",
+        "end": "verse_82"
+    },
+    {
+        "index": "111",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_83",
+        "end": "verse_90"
+    },
+    {
+        "index": "112",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_91",
+        "end": "verse_94"
+    },
+    {
+        "index": "113",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_95",
+        "end": "verse_100"
+    },
+    {
+        "index": "114",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_101",
+        "end": "verse_110"
+    },
+    {
+        "index": "115",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_111",
+        "end": "verse_121"
+    },
+    {
+        "index": "116",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_122",
+        "end": "verse_129"
+    },
+    {
+        "index": "117",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_130",
+        "end": "verse_140"
+    },
+    {
+        "index": "118",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_141",
+        "end": "verse_144"
+    },
+    {
+        "index": "119",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_145",
+        "end": "verse_150"
+    },
+    {
+        "index": "120",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_151",
+        "end": "verse_154"
+    },
+    {
+        "index": "121",
+        "manzil": "2",
+        "suraIndex": "006",
+        "suraName": "Al-An'am",
+        "suraNameAr": "الأنعام",
+        "start": "verse_155",
+        "end": "verse_165"
+    },
+    {
+        "index": "122",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "123",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_11",
+        "end": "verse_25"
+    },
+    {
+        "index": "124",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_26",
+        "end": "verse_31"
+    },
+    {
+        "index": "125",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_32",
+        "end": "verse_39"
+    },
+    {
+        "index": "126",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_40",
+        "end": "verse_47"
+    },
+    {
+        "index": "127",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_48",
+        "end": "verse_53"
+    },
+    {
+        "index": "128",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_54",
+        "end": "verse_58"
+    },
+    {
+        "index": "129",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_59",
+        "end": "verse_64"
+    },
+    {
+        "index": "130",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_65",
+        "end": "verse_72"
+    },
+    {
+        "index": "131",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_73",
+        "end": "verse_84"
+    },
+    {
+        "index": "132",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_85",
+        "end": "verse_93"
+    },
+    {
+        "index": "133",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_94",
+        "end": "verse_99"
+    },
+    {
+        "index": "134",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_100",
+        "end": "verse_108"
+    },
+    {
+        "index": "135",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_109",
+        "end": "verse_126"
+    },
+    {
+        "index": "136",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_127",
+        "end": "verse_129"
+    },
+    {
+        "index": "137",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_130",
+        "end": "verse_141"
+    },
+    {
+        "index": "138",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_142",
+        "end": "verse_147"
+    },
+    {
+        "index": "139",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_148",
+        "end": "verse_151"
+    },
+    {
+        "index": "140",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_152",
+        "end": "verse_157"
+    },
+    {
+        "index": "141",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_158",
+        "end": "verse_162"
+    },
+    {
+        "index": "142",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_163",
+        "end": "verse_171"
+    },
+    {
+        "index": "143",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_172",
+        "end": "verse_181"
+    },
+    {
+        "index": "144",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_182",
+        "end": "verse_188"
+    },
+    {
+        "index": "145",
+        "manzil": "2",
+        "suraIndex": "007",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "start": "verse_189",
+        "end": "verse_206"
+    },
+    {
+        "index": "146",
+        "manzil": "2",
+        "suraIndex": "008",
+        "suraName": "Al-Anfal",
+        "suraNameAr": "الأنفال",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "147",
+        "manzil": "2",
+        "suraIndex": "008",
+        "suraName": "Al-Anfal",
+        "suraNameAr": "الأنفال",
+        "start": "verse_11",
+        "end": "verse_19"
+    },
+    {
+        "index": "148",
+        "manzil": "2",
+        "suraIndex": "008",
+        "suraName": "Al-Anfal",
+        "suraNameAr": "الأنفال",
+        "start": "verse_20",
+        "end": "verse_28"
+    },
+    {
+        "index": "149",
+        "manzil": "2",
+        "suraIndex": "008",
+        "suraName": "Al-Anfal",
+        "suraNameAr": "الأنفال",
+        "start": "verse_29",
+        "end": "verse_37"
+    },
+    {
+        "index": "150",
+        "manzil": "2",
+        "suraIndex": "008",
+        "suraName": "Al-Anfal",
+        "suraNameAr": "الأنفال",
+        "start": "verse_38",
+        "end": "verse_44"
+    },
+    {
+        "index": "151",
+        "manzil": "2",
+        "suraIndex": "008",
+        "suraName": "Al-Anfal",
+        "suraNameAr": "الأنفال",
+        "start": "verse_45",
+        "end": "verse_48"
+    },
+    {
+        "index": "152",
+        "manzil": "2",
+        "suraIndex": "008",
+        "suraName": "Al-Anfal",
+        "suraNameAr": "الأنفال",
+        "start": "verse_49",
+        "end": "verse_58"
+    },
+    {
+        "index": "153",
+        "manzil": "2",
+        "suraIndex": "008",
+        "suraName": "Al-Anfal",
+        "suraNameAr": "الأنفال",
+        "start": "verse_59",
+        "end": "verse_64"
+    },
+    {
+        "index": "154",
+        "manzil": "2",
+        "suraIndex": "008",
+        "suraName": "Al-Anfal",
+        "suraNameAr": "الأنفال",
+        "start": "verse_65",
+        "end": "verse_69"
+    },
+    {
+        "index": "155",
+        "manzil": "2",
+        "suraIndex": "008",
+        "suraName": "Al-Anfal",
+        "suraNameAr": "الأنفال",
+        "start": "verse_70",
+        "end": "verse_75"
+    },
+    {
+        "index": "156",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_1",
+        "end": "verse_6"
+    },
+    {
+        "index": "157",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_7",
+        "end": "verse_16"
+    },
+    {
+        "index": "158",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_17",
+        "end": "verse_24"
+    },
+    {
+        "index": "159",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_25",
+        "end": "verse_29"
+    },
+    {
+        "index": "160",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_30",
+        "end": "verse_37"
+    },
+    {
+        "index": "161",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_38",
+        "end": "verse_42"
+    },
+    {
+        "index": "162",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_43",
+        "end": "verse_59"
+    },
+    {
+        "index": "163",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_60",
+        "end": "verse_66"
+    },
+    {
+        "index": "164",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_67",
+        "end": "verse_72"
+    },
+    {
+        "index": "165",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_73",
+        "end": "verse_80"
+    },
+    {
+        "index": "166",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_81",
+        "end": "verse_89"
+    },
+    {
+        "index": "167",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_90",
+        "end": "verse_99"
+    },
+    {
+        "index": "168",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_100",
+        "end": "verse_110"
+    },
+    {
+        "index": "169",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_111",
+        "end": "verse_118"
+    },
+    {
+        "index": "170",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_119",
+        "end": "verse_122"
+    },
+    {
+        "index": "171",
+        "manzil": "2",
+        "suraIndex": "009",
+        "suraName": "Al-Tawba",
+        "suraNameAr": "التوبة",
+        "start": "verse_123",
+        "end": "verse_129"
+    },
+    {
+        "index": "172",
+        "manzil": "3",
+        "suraIndex": "010",
+        "suraName": "Yunus",
+        "suraNameAr": "يونس",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "173",
+        "manzil": "3",
+        "suraIndex": "010",
+        "suraName": "Yunus",
+        "suraNameAr": "يونس",
+        "start": "verse_11",
+        "end": "verse_20"
+    },
+    {
+        "index": "174",
+        "manzil": "3",
+        "suraIndex": "010",
+        "suraName": "Yunus",
+        "suraNameAr": "يونس",
+        "start": "verse_21",
+        "end": "verse_30"
+    },
+    {
+        "index": "175",
+        "manzil": "3",
+        "suraIndex": "010",
+        "suraName": "Yunus",
+        "suraNameAr": "يونس",
+        "start": "verse_31",
+        "end": "verse_40"
+    },
+    {
+        "index": "176",
+        "manzil": "3",
+        "suraIndex": "010",
+        "suraName": "Yunus",
+        "suraNameAr": "يونس",
+        "start": "verse_41",
+        "end": "verse_53"
+    },
+    {
+        "index": "177",
+        "manzil": "3",
+        "suraIndex": "010",
+        "suraName": "Yunus",
+        "suraNameAr": "يونس",
+        "start": "verse_54",
+        "end": "verse_60"
+    },
+    {
+        "index": "178",
+        "manzil": "3",
+        "suraIndex": "010",
+        "suraName": "Yunus",
+        "suraNameAr": "يونس",
+        "start": "verse_61",
+        "end": "verse_70"
+    },
+    {
+        "index": "179",
+        "manzil": "3",
+        "suraIndex": "010",
+        "suraName": "Yunus",
+        "suraNameAr": "يونس",
+        "start": "verse_71",
+        "end": "verse_82"
+    },
+    {
+        "index": "180",
+        "manzil": "3",
+        "suraIndex": "010",
+        "suraName": "Yunus",
+        "suraNameAr": "يونس",
+        "start": "verse_83",
+        "end": "verse_92"
+    },
+    {
+        "index": "181",
+        "manzil": "3",
+        "suraIndex": "010",
+        "suraName": "Yunus",
+        "suraNameAr": "يونس",
+        "start": "verse_93",
+        "end": "verse_103"
+    },
+    {
+        "index": "182",
+        "manzil": "3",
+        "suraIndex": "010",
+        "suraName": "Yunus",
+        "suraNameAr": "يونس",
+        "start": "verse_104",
+        "end": "verse_109"
+    },
+    {
+        "index": "183",
+        "manzil": "3",
+        "suraIndex": "011",
+        "suraName": "Hud",
+        "suraNameAr": "هود",
+        "start": "verse_1",
+        "end": "verse_8"
+    },
+    {
+        "index": "184",
+        "manzil": "3",
+        "suraIndex": "011",
+        "suraName": "Hud",
+        "suraNameAr": "هود",
+        "start": "verse_9",
+        "end": "verse_24"
+    },
+    {
+        "index": "185",
+        "manzil": "3",
+        "suraIndex": "011",
+        "suraName": "Hud",
+        "suraNameAr": "هود",
+        "start": "verse_25",
+        "end": "verse_35"
+    },
+    {
+        "index": "186",
+        "manzil": "3",
+        "suraIndex": "011",
+        "suraName": "Hud",
+        "suraNameAr": "هود",
+        "start": "verse_36",
+        "end": "verse_49"
+    },
+    {
+        "index": "187",
+        "manzil": "3",
+        "suraIndex": "011",
+        "suraName": "Hud",
+        "suraNameAr": "هود",
+        "start": "verse_50",
+        "end": "verse_60"
+    },
+    {
+        "index": "188",
+        "manzil": "3",
+        "suraIndex": "011",
+        "suraName": "Hud",
+        "suraNameAr": "هود",
+        "start": "verse_61",
+        "end": "verse_68"
+    },
+    {
+        "index": "189",
+        "manzil": "3",
+        "suraIndex": "011",
+        "suraName": "Hud",
+        "suraNameAr": "هود",
+        "start": "verse_69",
+        "end": "verse_83"
+    },
+    {
+        "index": "190",
+        "manzil": "3",
+        "suraIndex": "011",
+        "suraName": "Hud",
+        "suraNameAr": "هود",
+        "start": "verse_84",
+        "end": "verse_95"
+    },
+    {
+        "index": "191",
+        "manzil": "3",
+        "suraIndex": "011",
+        "suraName": "Hud",
+        "suraNameAr": "هود",
+        "start": "verse_96",
+        "end": "verse_109"
+    },
+    {
+        "index": "192",
+        "manzil": "3",
+        "suraIndex": "011",
+        "suraName": "Hud",
+        "suraNameAr": "هود",
+        "start": "verse_110",
+        "end": "verse_123"
+    },
+    {
+        "index": "193",
+        "manzil": "3",
+        "suraIndex": "012",
+        "suraName": "Yusuf",
+        "suraNameAr": "يوسف",
+        "start": "verse_1",
+        "end": "verse_6"
+    },
+    {
+        "index": "194",
+        "manzil": "3",
+        "suraIndex": "012",
+        "suraName": "Yusuf",
+        "suraNameAr": "يوسف",
+        "start": "verse_7",
+        "end": "verse_20"
+    },
+    {
+        "index": "195",
+        "manzil": "3",
+        "suraIndex": "012",
+        "suraName": "Yusuf",
+        "suraNameAr": "يوسف",
+        "start": "verse_21",
+        "end": "verse_29"
+    },
+    {
+        "index": "196",
+        "manzil": "3",
+        "suraIndex": "012",
+        "suraName": "Yusuf",
+        "suraNameAr": "يوسف",
+        "start": "verse_30",
+        "end": "verse_35"
+    },
+    {
+        "index": "197",
+        "manzil": "3",
+        "suraIndex": "012",
+        "suraName": "Yusuf",
+        "suraNameAr": "يوسف",
+        "start": "verse_36",
+        "end": "verse_42"
+    },
+    {
+        "index": "198",
+        "manzil": "3",
+        "suraIndex": "012",
+        "suraName": "Yusuf",
+        "suraNameAr": "يوسف",
+        "start": "verse_43",
+        "end": "verse_49"
+    },
+    {
+        "index": "199",
+        "manzil": "3",
+        "suraIndex": "012",
+        "suraName": "Yusuf",
+        "suraNameAr": "يوسف",
+        "start": "verse_50",
+        "end": "verse_57"
+    },
+    {
+        "index": "200",
+        "manzil": "3",
+        "suraIndex": "012",
+        "suraName": "Yusuf",
+        "suraNameAr": "يوسف",
+        "start": "verse_58",
+        "end": "verse_68"
+    },
+    {
+        "index": "201",
+        "manzil": "3",
+        "suraIndex": "012",
+        "suraName": "Yusuf",
+        "suraNameAr": "يوسف",
+        "start": "verse_69",
+        "end": "verse_79"
+    },
+    {
+        "index": "202",
+        "manzil": "3",
+        "suraIndex": "012",
+        "suraName": "Yusuf",
+        "suraNameAr": "يوسف",
+        "start": "verse_80",
+        "end": "verse_93"
+    },
+    {
+        "index": "203",
+        "manzil": "3",
+        "suraIndex": "012",
+        "suraName": "Yusuf",
+        "suraNameAr": "يوسف",
+        "start": "verse_94",
+        "end": "verse_104"
+    },
+    {
+        "index": "204",
+        "manzil": "3",
+        "suraIndex": "012",
+        "suraName": "Yusuf",
+        "suraNameAr": "يوسف",
+        "start": "verse_105",
+        "end": "verse_111"
+    },
+    {
+        "index": "205",
+        "manzil": "3",
+        "suraIndex": "013",
+        "suraName": "Ar-Ra'd",
+        "suraNameAr": "الرعد",
+        "start": "verse_1",
+        "end": "verse_7"
+    },
+    {
+        "index": "206",
+        "manzil": "3",
+        "suraIndex": "013",
+        "suraName": "Ar-Ra'd",
+        "suraNameAr": "الرعد",
+        "start": "verse_8",
+        "end": "verse_18"
+    },
+    {
+        "index": "207",
+        "manzil": "3",
+        "suraIndex": "013",
+        "suraName": "Ar-Ra'd",
+        "suraNameAr": "الرعد",
+        "start": "verse_19",
+        "end": "verse_26"
+    },
+    {
+        "index": "208",
+        "manzil": "3",
+        "suraIndex": "013",
+        "suraName": "Ar-Ra'd",
+        "suraNameAr": "الرعد",
+        "start": "verse_27",
+        "end": "verse_31"
+    },
+    {
+        "index": "209",
+        "manzil": "3",
+        "suraIndex": "013",
+        "suraName": "Ar-Ra'd",
+        "suraNameAr": "الرعد",
+        "start": "verse_32",
+        "end": "verse_37"
+    },
+    {
+        "index": "210",
+        "manzil": "3",
+        "suraIndex": "013",
+        "suraName": "Ar-Ra'd",
+        "suraNameAr": "الرعد",
+        "start": "verse_38",
+        "end": "verse_43"
+    },
+    {
+        "index": "211",
+        "manzil": "3",
+        "suraIndex": "014",
+        "suraName": "Ibrahim",
+        "suraNameAr": "إبراهيم",
+        "start": "verse_1",
+        "end": "verse_6"
+    },
+    {
+        "index": "212",
+        "manzil": "3",
+        "suraIndex": "014",
+        "suraName": "Ibrahim",
+        "suraNameAr": "إبراهيم",
+        "start": "verse_7",
+        "end": "verse_12"
+    },
+    {
+        "index": "213",
+        "manzil": "3",
+        "suraIndex": "014",
+        "suraName": "Ibrahim",
+        "suraNameAr": "إبراهيم",
+        "start": "verse_13",
+        "end": "verse_21"
+    },
+    {
+        "index": "214",
+        "manzil": "3",
+        "suraIndex": "014",
+        "suraName": "Ibrahim",
+        "suraNameAr": "إبراهيم",
+        "start": "verse_22",
+        "end": "verse_27"
+    },
+    {
+        "index": "215",
+        "manzil": "3",
+        "suraIndex": "014",
+        "suraName": "Ibrahim",
+        "suraNameAr": "إبراهيم",
+        "start": "verse_28",
+        "end": "verse_34"
+    },
+    {
+        "index": "216",
+        "manzil": "3",
+        "suraIndex": "014",
+        "suraName": "Ibrahim",
+        "suraNameAr": "إبراهيم",
+        "start": "verse_35",
+        "end": "verse_41"
+    },
+    {
+        "index": "217",
+        "manzil": "3",
+        "suraIndex": "014",
+        "suraName": "Ibrahim",
+        "suraNameAr": "إبراهيم",
+        "start": "verse_42",
+        "end": "verse_52"
+    },
+    {
+        "index": "218",
+        "manzil": "3",
+        "suraIndex": "015",
+        "suraName": "Al-Hijr",
+        "suraNameAr": "الحجر",
+        "start": "verse_1",
+        "end": "verse_15"
+    },
+    {
+        "index": "219",
+        "manzil": "3",
+        "suraIndex": "015",
+        "suraName": "Al-Hijr",
+        "suraNameAr": "الحجر",
+        "start": "verse_16",
+        "end": "verse_25"
+    },
+    {
+        "index": "220",
+        "manzil": "3",
+        "suraIndex": "015",
+        "suraName": "Al-Hijr",
+        "suraNameAr": "الحجر",
+        "start": "verse_26",
+        "end": "verse_44"
+    },
+    {
+        "index": "221",
+        "manzil": "3",
+        "suraIndex": "015",
+        "suraName": "Al-Hijr",
+        "suraNameAr": "الحجر",
+        "start": "verse_45",
+        "end": "verse_60"
+    },
+    {
+        "index": "222",
+        "manzil": "3",
+        "suraIndex": "015",
+        "suraName": "Al-Hijr",
+        "suraNameAr": "الحجر",
+        "start": "verse_61",
+        "end": "verse_79"
+    },
+    {
+        "index": "223",
+        "manzil": "3",
+        "suraIndex": "015",
+        "suraName": "Al-Hijr",
+        "suraNameAr": "الحجر",
+        "start": "verse_80",
+        "end": "verse_99"
+    },
+    {
+        "index": "224",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_1",
+        "end": "verse_9"
+    },
+    {
+        "index": "225",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_10",
+        "end": "verse_21"
+    },
+    {
+        "index": "226",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_22",
+        "end": "verse_25"
+    },
+    {
+        "index": "227",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_26",
+        "end": "verse_34"
+    },
+    {
+        "index": "228",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_35",
+        "end": "verse_40"
+    },
+    {
+        "index": "229",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_41",
+        "end": "verse_50"
+    },
+    {
+        "index": "230",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_51",
+        "end": "verse_60"
+    },
+    {
+        "index": "231",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_61",
+        "end": "verse_65"
+    },
+    {
+        "index": "232",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_66",
+        "end": "verse_70"
+    },
+    {
+        "index": "233",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_71",
+        "end": "verse_76"
+    },
+    {
+        "index": "234",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_77",
+        "end": "verse_83"
+    },
+    {
+        "index": "235",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_84",
+        "end": "verse_89"
+    },
+    {
+        "index": "236",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_90",
+        "end": "verse_100"
+    },
+    {
+        "index": "237",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_101",
+        "end": "verse_110"
+    },
+    {
+        "index": "238",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_111",
+        "end": "verse_119"
+    },
+    {
+        "index": "239",
+        "manzil": "3",
+        "suraIndex": "016",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "start": "verse_120",
+        "end": "verse_128"
+    },
+    {
+        "index": "240",
+        "manzil": "4",
+        "suraIndex": "017",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "241",
+        "manzil": "4",
+        "suraIndex": "017",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "start": "verse_11",
+        "end": "verse_22"
+    },
+    {
+        "index": "242",
+        "manzil": "4",
+        "suraIndex": "017",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "start": "verse_23",
+        "end": "verse_30"
+    },
+    {
+        "index": "243",
+        "manzil": "4",
+        "suraIndex": "017",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "start": "verse_31",
+        "end": "verse_40"
+    },
+    {
+        "index": "244",
+        "manzil": "4",
+        "suraIndex": "017",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "start": "verse_41",
+        "end": "verse_52"
+    },
+    {
+        "index": "245",
+        "manzil": "4",
+        "suraIndex": "017",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "start": "verse_53",
+        "end": "verse_60"
+    },
+    {
+        "index": "246",
+        "manzil": "4",
+        "suraIndex": "017",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "start": "verse_61",
+        "end": "verse_70"
+    },
+    {
+        "index": "247",
+        "manzil": "4",
+        "suraIndex": "017",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "start": "verse_71",
+        "end": "verse_77"
+    },
+    {
+        "index": "248",
+        "manzil": "4",
+        "suraIndex": "017",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "start": "verse_78",
+        "end": "verse_84"
+    },
+    {
+        "index": "249",
+        "manzil": "4",
+        "suraIndex": "017",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "start": "verse_85",
+        "end": "verse_93"
+    },
+    {
+        "index": "250",
+        "manzil": "4",
+        "suraIndex": "017",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "start": "verse_94",
+        "end": "verse_100"
+    },
+    {
+        "index": "251",
+        "manzil": "4",
+        "suraIndex": "017",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "start": "verse_101",
+        "end": "verse_111"
+    },
+    {
+        "index": "252",
+        "manzil": "4",
+        "suraIndex": "018",
+        "suraName": "Al-Kahf",
+        "suraNameAr": "الكهف",
+        "start": "verse_1",
+        "end": "verse_12"
+    },
+    {
+        "index": "253",
+        "manzil": "4",
+        "suraIndex": "018",
+        "suraName": "Al-Kahf",
+        "suraNameAr": "الكهف",
+        "start": "verse_13",
+        "end": "verse_17"
+    },
+    {
+        "index": "254",
+        "manzil": "4",
+        "suraIndex": "018",
+        "suraName": "Al-Kahf",
+        "suraNameAr": "الكهف",
+        "start": "verse_18",
+        "end": "verse_22"
+    },
+    {
+        "index": "255",
+        "manzil": "4",
+        "suraIndex": "018",
+        "suraName": "Al-Kahf",
+        "suraNameAr": "الكهف",
+        "start": "verse_23",
+        "end": "verse_31"
+    },
+    {
+        "index": "256",
+        "manzil": "4",
+        "suraIndex": "018",
+        "suraName": "Al-Kahf",
+        "suraNameAr": "الكهف",
+        "start": "verse_32",
+        "end": "verse_44"
+    },
+    {
+        "index": "257",
+        "manzil": "4",
+        "suraIndex": "018",
+        "suraName": "Al-Kahf",
+        "suraNameAr": "الكهف",
+        "start": "verse_45",
+        "end": "verse_49"
+    },
+    {
+        "index": "258",
+        "manzil": "4",
+        "suraIndex": "018",
+        "suraName": "Al-Kahf",
+        "suraNameAr": "الكهف",
+        "start": "verse_50",
+        "end": "verse_53"
+    },
+    {
+        "index": "259",
+        "manzil": "4",
+        "suraIndex": "018",
+        "suraName": "Al-Kahf",
+        "suraNameAr": "الكهف",
+        "start": "verse_54",
+        "end": "verse_59"
+    },
+    {
+        "index": "260",
+        "manzil": "4",
+        "suraIndex": "018",
+        "suraName": "Al-Kahf",
+        "suraNameAr": "الكهف",
+        "start": "verse_60",
+        "end": "verse_70"
+    },
+    {
+        "index": "261",
+        "manzil": "4",
+        "suraIndex": "018",
+        "suraName": "Al-Kahf",
+        "suraNameAr": "الكهف",
+        "start": "verse_71",
+        "end": "verse_82"
+    },
+    {
+        "index": "262",
+        "manzil": "4",
+        "suraIndex": "018",
+        "suraName": "Al-Kahf",
+        "suraNameAr": "الكهف",
+        "start": "verse_83",
+        "end": "verse_101"
+    },
+    {
+        "index": "263",
+        "manzil": "4",
+        "suraIndex": "018",
+        "suraName": "Al-Kahf",
+        "suraNameAr": "الكهف",
+        "start": "verse_102",
+        "end": "verse_110"
+    },
+    {
+        "index": "264",
+        "manzil": "4",
+        "suraIndex": "019",
+        "suraName": "Maryam",
+        "suraNameAr": "مريم",
+        "start": "verse_1",
+        "end": "verse_15"
+    },
+    {
+        "index": "265",
+        "manzil": "4",
+        "suraIndex": "019",
+        "suraName": "Maryam",
+        "suraNameAr": "مريم",
+        "start": "verse_16",
+        "end": "verse_40"
+    },
+    {
+        "index": "266",
+        "manzil": "4",
+        "suraIndex": "019",
+        "suraName": "Maryam",
+        "suraNameAr": "مريم",
+        "start": "verse_41",
+        "end": "verse_50"
+    },
+    {
+        "index": "267",
+        "manzil": "4",
+        "suraIndex": "019",
+        "suraName": "Maryam",
+        "suraNameAr": "مريم",
+        "start": "verse_51",
+        "end": "verse_65"
+    },
+    {
+        "index": "268",
+        "manzil": "4",
+        "suraIndex": "019",
+        "suraName": "Maryam",
+        "suraNameAr": "مريم",
+        "start": "verse_66",
+        "end": "verse_82"
+    },
+    {
+        "index": "269",
+        "manzil": "4",
+        "suraIndex": "019",
+        "suraName": "Maryam",
+        "suraNameAr": "مريم",
+        "start": "verse_83",
+        "end": "verse_98"
+    },
+    {
+        "index": "270",
+        "manzil": "4",
+        "suraIndex": "020",
+        "suraName": "Ta-Ha",
+        "suraNameAr": "طه",
+        "start": "verse_1",
+        "end": "verse_24"
+    },
+    {
+        "index": "271",
+        "manzil": "4",
+        "suraIndex": "020",
+        "suraName": "Ta-Ha",
+        "suraNameAr": "طه",
+        "start": "verse_25",
+        "end": "verse_54"
+    },
+    {
+        "index": "272",
+        "manzil": "4",
+        "suraIndex": "020",
+        "suraName": "Ta-Ha",
+        "suraNameAr": "طه",
+        "start": "verse_55",
+        "end": "verse_76"
+    },
+    {
+        "index": "273",
+        "manzil": "4",
+        "suraIndex": "020",
+        "suraName": "Ta-Ha",
+        "suraNameAr": "طه",
+        "start": "verse_77",
+        "end": "verse_89"
+    },
+    {
+        "index": "274",
+        "manzil": "4",
+        "suraIndex": "020",
+        "suraName": "Ta-Ha",
+        "suraNameAr": "طه",
+        "start": "verse_90",
+        "end": "verse_104"
+    },
+    {
+        "index": "275",
+        "manzil": "4",
+        "suraIndex": "020",
+        "suraName": "Ta-Ha",
+        "suraNameAr": "طه",
+        "start": "verse_105",
+        "end": "verse_115"
+    },
+    {
+        "index": "276",
+        "manzil": "4",
+        "suraIndex": "020",
+        "suraName": "Ta-Ha",
+        "suraNameAr": "طه",
+        "start": "verse_116",
+        "end": "verse_128"
+    },
+    {
+        "index": "277",
+        "manzil": "4",
+        "suraIndex": "020",
+        "suraName": "Ta-Ha",
+        "suraNameAr": "طه",
+        "start": "verse_129",
+        "end": "verse_135"
+    },
+    {
+        "index": "278",
+        "manzil": "4",
+        "suraIndex": "021",
+        "suraName": "Al-Anbiya",
+        "suraNameAr": "الأنبياء",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "279",
+        "manzil": "4",
+        "suraIndex": "021",
+        "suraName": "Al-Anbiya",
+        "suraNameAr": "الأنبياء",
+        "start": "verse_11",
+        "end": "verse_29"
+    },
+    {
+        "index": "280",
+        "manzil": "4",
+        "suraIndex": "021",
+        "suraName": "Al-Anbiya",
+        "suraNameAr": "الأنبياء",
+        "start": "verse_30",
+        "end": "verse_41"
+    },
+    {
+        "index": "281",
+        "manzil": "4",
+        "suraIndex": "021",
+        "suraName": "Al-Anbiya",
+        "suraNameAr": "الأنبياء",
+        "start": "verse_42",
+        "end": "verse_50"
+    },
+    {
+        "index": "282",
+        "manzil": "4",
+        "suraIndex": "021",
+        "suraName": "Al-Anbiya",
+        "suraNameAr": "الأنبياء",
+        "start": "verse_51",
+        "end": "verse_75"
+    },
+    {
+        "index": "283",
+        "manzil": "4",
+        "suraIndex": "021",
+        "suraName": "Al-Anbiya",
+        "suraNameAr": "الأنبياء",
+        "start": "verse_76",
+        "end": "verse_93"
+    },
+    {
+        "index": "284",
+        "manzil": "4",
+        "suraIndex": "021",
+        "suraName": "Al-Anbiya",
+        "suraNameAr": "الأنبياء",
+        "start": "verse_94",
+        "end": "verse_112"
+    },
+    {
+        "index": "285",
+        "manzil": "4",
+        "suraIndex": "022",
+        "suraName": "Al-Hajj",
+        "suraNameAr": "الحج",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "286",
+        "manzil": "4",
+        "suraIndex": "022",
+        "suraName": "Al-Hajj",
+        "suraNameAr": "الحج",
+        "start": "verse_11",
+        "end": "verse_22"
+    },
+    {
+        "index": "287",
+        "manzil": "4",
+        "suraIndex": "022",
+        "suraName": "Al-Hajj",
+        "suraNameAr": "الحج",
+        "start": "verse_23",
+        "end": "verse_25"
+    },
+    {
+        "index": "288",
+        "manzil": "4",
+        "suraIndex": "022",
+        "suraName": "Al-Hajj",
+        "suraNameAr": "الحج",
+        "start": "verse_26",
+        "end": "verse_33"
+    },
+    {
+        "index": "289",
+        "manzil": "4",
+        "suraIndex": "022",
+        "suraName": "Al-Hajj",
+        "suraNameAr": "الحج",
+        "start": "verse_34",
+        "end": "verse_38"
+    },
+    {
+        "index": "290",
+        "manzil": "4",
+        "suraIndex": "022",
+        "suraName": "Al-Hajj",
+        "suraNameAr": "الحج",
+        "start": "verse_39",
+        "end": "verse_48"
+    },
+    {
+        "index": "291",
+        "manzil": "4",
+        "suraIndex": "022",
+        "suraName": "Al-Hajj",
+        "suraNameAr": "الحج",
+        "start": "verse_49",
+        "end": "verse_57"
+    },
+    {
+        "index": "292",
+        "manzil": "4",
+        "suraIndex": "022",
+        "suraName": "Al-Hajj",
+        "suraNameAr": "الحج",
+        "start": "verse_58",
+        "end": "verse_64"
+    },
+    {
+        "index": "293",
+        "manzil": "4",
+        "suraIndex": "022",
+        "suraName": "Al-Hajj",
+        "suraNameAr": "الحج",
+        "start": "verse_65",
+        "end": "verse_72"
+    },
+    {
+        "index": "294",
+        "manzil": "4",
+        "suraIndex": "022",
+        "suraName": "Al-Hajj",
+        "suraNameAr": "الحج",
+        "start": "verse_73",
+        "end": "verse_78"
+    },
+    {
+        "index": "295",
+        "manzil": "4",
+        "suraIndex": "023",
+        "suraName": "Al-Muminun",
+        "suraNameAr": "المؤمنون",
+        "start": "verse_1",
+        "end": "verse_22"
+    },
+    {
+        "index": "296",
+        "manzil": "4",
+        "suraIndex": "023",
+        "suraName": "Al-Muminun",
+        "suraNameAr": "المؤمنون",
+        "start": "verse_23",
+        "end": "verse_32"
+    },
+    {
+        "index": "297",
+        "manzil": "4",
+        "suraIndex": "023",
+        "suraName": "Al-Muminun",
+        "suraNameAr": "المؤمنون",
+        "start": "verse_33",
+        "end": "verse_50"
+    },
+    {
+        "index": "298",
+        "manzil": "4",
+        "suraIndex": "023",
+        "suraName": "Al-Muminun",
+        "suraNameAr": "المؤمنون",
+        "start": "verse_51",
+        "end": "verse_77"
+    },
+    {
+        "index": "299",
+        "manzil": "4",
+        "suraIndex": "023",
+        "suraName": "Al-Muminun",
+        "suraNameAr": "المؤمنون",
+        "start": "verse_78",
+        "end": "verse_92"
+    },
+    {
+        "index": "300",
+        "manzil": "4",
+        "suraIndex": "023",
+        "suraName": "Al-Muminun",
+        "suraNameAr": "المؤمنون",
+        "start": "verse_93",
+        "end": "verse_118"
+    },
+    {
+        "index": "301",
+        "manzil": "4",
+        "suraIndex": "024",
+        "suraName": "An-Nur",
+        "suraNameAr": "النور",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "302",
+        "manzil": "4",
+        "suraIndex": "024",
+        "suraName": "An-Nur",
+        "suraNameAr": "النور",
+        "start": "verse_11",
+        "end": "verse_20"
+    },
+    {
+        "index": "303",
+        "manzil": "4",
+        "suraIndex": "024",
+        "suraName": "An-Nur",
+        "suraNameAr": "النور",
+        "start": "verse_21",
+        "end": "verse_26"
+    },
+    {
+        "index": "304",
+        "manzil": "4",
+        "suraIndex": "024",
+        "suraName": "An-Nur",
+        "suraNameAr": "النور",
+        "start": "verse_27",
+        "end": "verse_34"
+    },
+    {
+        "index": "305",
+        "manzil": "4",
+        "suraIndex": "024",
+        "suraName": "An-Nur",
+        "suraNameAr": "النور",
+        "start": "verse_35",
+        "end": "verse_40"
+    },
+    {
+        "index": "306",
+        "manzil": "4",
+        "suraIndex": "024",
+        "suraName": "An-Nur",
+        "suraNameAr": "النور",
+        "start": "verse_41",
+        "end": "verse_50"
+    },
+    {
+        "index": "307",
+        "manzil": "4",
+        "suraIndex": "024",
+        "suraName": "An-Nur",
+        "suraNameAr": "النور",
+        "start": "verse_51",
+        "end": "verse_57"
+    },
+    {
+        "index": "308",
+        "manzil": "4",
+        "suraIndex": "024",
+        "suraName": "An-Nur",
+        "suraNameAr": "النور",
+        "start": "verse_58",
+        "end": "verse_61"
+    },
+    {
+        "index": "309",
+        "manzil": "4",
+        "suraIndex": "024",
+        "suraName": "An-Nur",
+        "suraNameAr": "النور",
+        "start": "verse_62",
+        "end": "verse_64"
+    },
+    {
+        "index": "310",
+        "manzil": "4",
+        "suraIndex": "025",
+        "suraName": "Al-Furqan",
+        "suraNameAr": "الفرقان",
+        "start": "verse_1",
+        "end": "verse_9"
+    },
+    {
+        "index": "311",
+        "manzil": "4",
+        "suraIndex": "025",
+        "suraName": "Al-Furqan",
+        "suraNameAr": "الفرقان",
+        "start": "verse_10",
+        "end": "verse_20"
+    },
+    {
+        "index": "312",
+        "manzil": "4",
+        "suraIndex": "025",
+        "suraName": "Al-Furqan",
+        "suraNameAr": "الفرقان",
+        "start": "verse_21",
+        "end": "verse_34"
+    },
+    {
+        "index": "313",
+        "manzil": "4",
+        "suraIndex": "025",
+        "suraName": "Al-Furqan",
+        "suraNameAr": "الفرقان",
+        "start": "verse_35",
+        "end": "verse_44"
+    },
+    {
+        "index": "314",
+        "manzil": "4",
+        "suraIndex": "025",
+        "suraName": "Al-Furqan",
+        "suraNameAr": "الفرقان",
+        "start": "verse_45",
+        "end": "verse_60"
+    },
+    {
+        "index": "315",
+        "manzil": "4",
+        "suraIndex": "025",
+        "suraName": "Al-Furqan",
+        "suraNameAr": "الفرقان",
+        "start": "verse_61",
+        "end": "verse_77"
+    },
+    {
+        "index": "316",
+        "manzil": "5",
+        "suraIndex": "026",
+        "suraName": "Ash-Shuara",
+        "suraNameAr": "الشعراء",
+        "start": "verse_1",
+        "end": "verse_9"
+    },
+    {
+        "index": "317",
+        "manzil": "5",
+        "suraIndex": "026",
+        "suraName": "Ash-Shuara",
+        "suraNameAr": "الشعراء",
+        "start": "verse_10",
+        "end": "verse_33"
+    },
+    {
+        "index": "318",
+        "manzil": "5",
+        "suraIndex": "026",
+        "suraName": "Ash-Shuara",
+        "suraNameAr": "الشعراء",
+        "start": "verse_34",
+        "end": "verse_52"
+    },
+    {
+        "index": "319",
+        "manzil": "5",
+        "suraIndex": "026",
+        "suraName": "Ash-Shuara",
+        "suraNameAr": "الشعراء",
+        "start": "verse_53",
+        "end": "verse_69"
+    },
+    {
+        "index": "320",
+        "manzil": "5",
+        "suraIndex": "026",
+        "suraName": "Ash-Shuara",
+        "suraNameAr": "الشعراء",
+        "start": "verse_70",
+        "end": "verse_104"
+    },
+    {
+        "index": "321",
+        "manzil": "5",
+        "suraIndex": "026",
+        "suraName": "Ash-Shuara",
+        "suraNameAr": "الشعراء",
+        "start": "verse_105",
+        "end": "verse_122"
+    },
+    {
+        "index": "322",
+        "manzil": "5",
+        "suraIndex": "026",
+        "suraName": "Ash-Shuara",
+        "suraNameAr": "الشعراء",
+        "start": "verse_123",
+        "end": "verse_140"
+    },
+    {
+        "index": "323",
+        "manzil": "5",
+        "suraIndex": "026",
+        "suraName": "Ash-Shuara",
+        "suraNameAr": "الشعراء",
+        "start": "verse_141",
+        "end": "verse_159"
+    },
+    {
+        "index": "324",
+        "manzil": "5",
+        "suraIndex": "026",
+        "suraName": "Ash-Shuara",
+        "suraNameAr": "الشعراء",
+        "start": "verse_160",
+        "end": "verse_175"
+    },
+    {
+        "index": "325",
+        "manzil": "5",
+        "suraIndex": "026",
+        "suraName": "Ash-Shuara",
+        "suraNameAr": "الشعراء",
+        "start": "verse_176",
+        "end": "verse_191"
+    },
+    {
+        "index": "326",
+        "manzil": "5",
+        "suraIndex": "026",
+        "suraName": "Ash-Shuara",
+        "suraNameAr": "الشعراء",
+        "start": "verse_192",
+        "end": "verse_227"
+    },
+    {
+        "index": "327",
+        "manzil": "5",
+        "suraIndex": "027",
+        "suraName": "An-Naml",
+        "suraNameAr": "النمل",
+        "start": "verse_1",
+        "end": "verse_14"
+    },
+    {
+        "index": "328",
+        "manzil": "5",
+        "suraIndex": "027",
+        "suraName": "An-Naml",
+        "suraNameAr": "النمل",
+        "start": "verse_15",
+        "end": "verse_31"
+    },
+    {
+        "index": "329",
+        "manzil": "5",
+        "suraIndex": "027",
+        "suraName": "An-Naml",
+        "suraNameAr": "النمل",
+        "start": "verse_32",
+        "end": "verse_44"
+    },
+    {
+        "index": "330",
+        "manzil": "5",
+        "suraIndex": "027",
+        "suraName": "An-Naml",
+        "suraNameAr": "النمل",
+        "start": "verse_45",
+        "end": "verse_58"
+    },
+    {
+        "index": "331",
+        "manzil": "5",
+        "suraIndex": "027",
+        "suraName": "An-Naml",
+        "suraNameAr": "النمل",
+        "start": "verse_59",
+        "end": "verse_66"
+    },
+    {
+        "index": "332",
+        "manzil": "5",
+        "suraIndex": "027",
+        "suraName": "An-Naml",
+        "suraNameAr": "النمل",
+        "start": "verse_67",
+        "end": "verse_82"
+    },
+    {
+        "index": "333",
+        "manzil": "5",
+        "suraIndex": "027",
+        "suraName": "An-Naml",
+        "suraNameAr": "النمل",
+        "start": "verse_83",
+        "end": "verse_93"
+    },
+    {
+        "index": "334",
+        "manzil": "5",
+        "suraIndex": "028",
+        "suraName": "Al-Qasas",
+        "suraNameAr": "القصص",
+        "start": "verse_1",
+        "end": "verse_13"
+    },
+    {
+        "index": "335",
+        "manzil": "5",
+        "suraIndex": "028",
+        "suraName": "Al-Qasas",
+        "suraNameAr": "القصص",
+        "start": "verse_14",
+        "end": "verse_21"
+    },
+    {
+        "index": "336",
+        "manzil": "5",
+        "suraIndex": "028",
+        "suraName": "Al-Qasas",
+        "suraNameAr": "القصص",
+        "start": "verse_22",
+        "end": "verse_28"
+    },
+    {
+        "index": "337",
+        "manzil": "5",
+        "suraIndex": "028",
+        "suraName": "Al-Qasas",
+        "suraNameAr": "القصص",
+        "start": "verse_29",
+        "end": "verse_42"
+    },
+    {
+        "index": "338",
+        "manzil": "5",
+        "suraIndex": "028",
+        "suraName": "Al-Qasas",
+        "suraNameAr": "القصص",
+        "start": "verse_43",
+        "end": "verse_50"
+    },
+    {
+        "index": "339",
+        "manzil": "5",
+        "suraIndex": "028",
+        "suraName": "Al-Qasas",
+        "suraNameAr": "القصص",
+        "start": "verse_51",
+        "end": "verse_60"
+    },
+    {
+        "index": "340",
+        "manzil": "5",
+        "suraIndex": "028",
+        "suraName": "Al-Qasas",
+        "suraNameAr": "القصص",
+        "start": "verse_61",
+        "end": "verse_75"
+    },
+    {
+        "index": "341",
+        "manzil": "5",
+        "suraIndex": "028",
+        "suraName": "Al-Qasas",
+        "suraNameAr": "القصص",
+        "start": "verse_76",
+        "end": "verse_88"
+    },
+    {
+        "index": "342",
+        "manzil": "5",
+        "suraIndex": "029",
+        "suraName": "Al-Ankabut",
+        "suraNameAr": "العنكبوت",
+        "start": "verse_1",
+        "end": "verse_13"
+    },
+    {
+        "index": "343",
+        "manzil": "5",
+        "suraIndex": "029",
+        "suraName": "Al-Ankabut",
+        "suraNameAr": "العنكبوت",
+        "start": "verse_14",
+        "end": "verse_22"
+    },
+    {
+        "index": "344",
+        "manzil": "5",
+        "suraIndex": "029",
+        "suraName": "Al-Ankabut",
+        "suraNameAr": "العنكبوت",
+        "start": "verse_23",
+        "end": "verse_30"
+    },
+    {
+        "index": "345",
+        "manzil": "5",
+        "suraIndex": "029",
+        "suraName": "Al-Ankabut",
+        "suraNameAr": "العنكبوت",
+        "start": "verse_31",
+        "end": "verse_44"
+    },
+    {
+        "index": "346",
+        "manzil": "5",
+        "suraIndex": "029",
+        "suraName": "Al-Ankabut",
+        "suraNameAr": "العنكبوت",
+        "start": "verse_45",
+        "end": "verse_51"
+    },
+    {
+        "index": "347",
+        "manzil": "5",
+        "suraIndex": "029",
+        "suraName": "Al-Ankabut",
+        "suraNameAr": "العنكبوت",
+        "start": "verse_52",
+        "end": "verse_63"
+    },
+    {
+        "index": "348",
+        "manzil": "5",
+        "suraIndex": "029",
+        "suraName": "Al-Ankabut",
+        "suraNameAr": "العنكبوت",
+        "start": "verse_64",
+        "end": "verse_69"
+    },
+    {
+        "index": "349",
+        "manzil": "5",
+        "suraIndex": "030",
+        "suraName": "Ar-Rum",
+        "suraNameAr": "الروم",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "350",
+        "manzil": "5",
+        "suraIndex": "030",
+        "suraName": "Ar-Rum",
+        "suraNameAr": "الروم",
+        "start": "verse_11",
+        "end": "verse_19"
+    },
+    {
+        "index": "351",
+        "manzil": "5",
+        "suraIndex": "030",
+        "suraName": "Ar-Rum",
+        "suraNameAr": "الروم",
+        "start": "verse_20",
+        "end": "verse_27"
+    },
+    {
+        "index": "352",
+        "manzil": "5",
+        "suraIndex": "030",
+        "suraName": "Ar-Rum",
+        "suraNameAr": "الروم",
+        "start": "verse_28",
+        "end": "verse_40"
+    },
+    {
+        "index": "353",
+        "manzil": "5",
+        "suraIndex": "030",
+        "suraName": "Ar-Rum",
+        "suraNameAr": "الروم",
+        "start": "verse_41",
+        "end": "verse_53"
+    },
+    {
+        "index": "354",
+        "manzil": "5",
+        "suraIndex": "030",
+        "suraName": "Ar-Rum",
+        "suraNameAr": "الروم",
+        "start": "verse_54",
+        "end": "verse_60"
+    },
+    {
+        "index": "355",
+        "manzil": "5",
+        "suraIndex": "031",
+        "suraName": "Luqman",
+        "suraNameAr": "لقمان",
+        "start": "verse_1",
+        "end": "verse_11"
+    },
+    {
+        "index": "356",
+        "manzil": "5",
+        "suraIndex": "031",
+        "suraName": "Luqman",
+        "suraNameAr": "لقمان",
+        "start": "verse_12",
+        "end": "verse_19"
+    },
+    {
+        "index": "357",
+        "manzil": "5",
+        "suraIndex": "031",
+        "suraName": "Luqman",
+        "suraNameAr": "لقمان",
+        "start": "verse_20",
+        "end": "verse_34"
+    },
+    {
+        "index": "358",
+        "manzil": "5",
+        "suraIndex": "032",
+        "suraName": "As-Sajdah",
+        "suraNameAr": "السجدة",
+        "start": "verse_1",
+        "end": "verse_11"
+    },
+    {
+        "index": "359",
+        "manzil": "5",
+        "suraIndex": "032",
+        "suraName": "As-Sajdah",
+        "suraNameAr": "السجدة",
+        "start": "verse_12",
+        "end": "verse_22"
+    },
+    {
+        "index": "360",
+        "manzil": "5",
+        "suraIndex": "032",
+        "suraName": "As-Sajdah",
+        "suraNameAr": "السجدة",
+        "start": "verse_23",
+        "end": "verse_30"
+    },
+    {
+        "index": "361",
+        "manzil": "5",
+        "suraIndex": "033",
+        "suraName": "Al-Ahzab",
+        "suraNameAr": "الأحزاب",
+        "start": "verse_1",
+        "end": "verse_8"
+    },
+    {
+        "index": "362",
+        "manzil": "5",
+        "suraIndex": "033",
+        "suraName": "Al-Ahzab",
+        "suraNameAr": "الأحزاب",
+        "start": "verse_9",
+        "end": "verse_20"
+    },
+    {
+        "index": "363",
+        "manzil": "5",
+        "suraIndex": "033",
+        "suraName": "Al-Ahzab",
+        "suraNameAr": "الأحزاب",
+        "start": "verse_21",
+        "end": "verse_27"
+    },
+    {
+        "index": "364",
+        "manzil": "5",
+        "suraIndex": "033",
+        "suraName": "Al-Ahzab",
+        "suraNameAr": "الأحزاب",
+        "start": "verse_28",
+        "end": "verse_34"
+    },
+    {
+        "index": "365",
+        "manzil": "5",
+        "suraIndex": "033",
+        "suraName": "Al-Ahzab",
+        "suraNameAr": "الأحزاب",
+        "start": "verse_35",
+        "end": "verse_40"
+    },
+    {
+        "index": "366",
+        "manzil": "5",
+        "suraIndex": "033",
+        "suraName": "Al-Ahzab",
+        "suraNameAr": "الأحزاب",
+        "start": "verse_41",
+        "end": "verse_52"
+    },
+    {
+        "index": "367",
+        "manzil": "5",
+        "suraIndex": "033",
+        "suraName": "Al-Ahzab",
+        "suraNameAr": "الأحزاب",
+        "start": "verse_53",
+        "end": "verse_58"
+    },
+    {
+        "index": "368",
+        "manzil": "5",
+        "suraIndex": "033",
+        "suraName": "Al-Ahzab",
+        "suraNameAr": "الأحزاب",
+        "start": "verse_59",
+        "end": "verse_68"
+    },
+    {
+        "index": "369",
+        "manzil": "5",
+        "suraIndex": "033",
+        "suraName": "Al-Ahzab",
+        "suraNameAr": "الأحزاب",
+        "start": "verse_69",
+        "end": "verse_73"
+    },
+    {
+        "index": "370",
+        "manzil": "5",
+        "suraIndex": "034",
+        "suraName": "Saba",
+        "suraNameAr": "سبأ",
+        "start": "verse_1",
+        "end": "verse_9"
+    },
+    {
+        "index": "371",
+        "manzil": "5",
+        "suraIndex": "034",
+        "suraName": "Saba",
+        "suraNameAr": "سبأ",
+        "start": "verse_10",
+        "end": "verse_21"
+    },
+    {
+        "index": "372",
+        "manzil": "5",
+        "suraIndex": "034",
+        "suraName": "Saba",
+        "suraNameAr": "سبأ",
+        "start": "verse_22",
+        "end": "verse_30"
+    },
+    {
+        "index": "373",
+        "manzil": "5",
+        "suraIndex": "034",
+        "suraName": "Saba",
+        "suraNameAr": "سبأ",
+        "start": "verse_31",
+        "end": "verse_36"
+    },
+    {
+        "index": "374",
+        "manzil": "5",
+        "suraIndex": "034",
+        "suraName": "Saba",
+        "suraNameAr": "سبأ",
+        "start": "verse_37",
+        "end": "verse_45"
+    },
+    {
+        "index": "375",
+        "manzil": "5",
+        "suraIndex": "034",
+        "suraName": "Saba",
+        "suraNameAr": "سبأ",
+        "start": "verse_46",
+        "end": "verse_54"
+    },
+    {
+        "index": "376",
+        "manzil": "5",
+        "suraIndex": "035",
+        "suraName": "Fatir",
+        "suraNameAr": "فاطر",
+        "start": "verse_1",
+        "end": "verse_7"
+    },
+    {
+        "index": "377",
+        "manzil": "5",
+        "suraIndex": "035",
+        "suraName": "Fatir",
+        "suraNameAr": "فاطر",
+        "start": "verse_8",
+        "end": "verse_14"
+    },
+    {
+        "index": "378",
+        "manzil": "5",
+        "suraIndex": "035",
+        "suraName": "Fatir",
+        "suraNameAr": "فاطر",
+        "start": "verse_15",
+        "end": "verse_26"
+    },
+    {
+        "index": "379",
+        "manzil": "5",
+        "suraIndex": "035",
+        "suraName": "Fatir",
+        "suraNameAr": "فاطر",
+        "start": "verse_27",
+        "end": "verse_37"
+    },
+    {
+        "index": "380",
+        "manzil": "5",
+        "suraIndex": "035",
+        "suraName": "Fatir",
+        "suraNameAr": "فاطر",
+        "start": "verse_38",
+        "end": "verse_45"
+    },
+    {
+        "index": "381",
+        "manzil": "5",
+        "suraIndex": "036",
+        "suraName": "Yasin",
+        "suraNameAr": "يس",
+        "start": "verse_1",
+        "end": "verse_12"
+    },
+    {
+        "index": "382",
+        "manzil": "5",
+        "suraIndex": "036",
+        "suraName": "Yasin",
+        "suraNameAr": "يس",
+        "start": "verse_13",
+        "end": "verse_32"
+    },
+    {
+        "index": "383",
+        "manzil": "5",
+        "suraIndex": "036",
+        "suraName": "Yasin",
+        "suraNameAr": "يس",
+        "start": "verse_33",
+        "end": "verse_50"
+    },
+    {
+        "index": "384",
+        "manzil": "5",
+        "suraIndex": "036",
+        "suraName": "Yasin",
+        "suraNameAr": "يس",
+        "start": "verse_51",
+        "end": "verse_67"
+    },
+    {
+        "index": "385",
+        "manzil": "5",
+        "suraIndex": "036",
+        "suraName": "Yasin",
+        "suraNameAr": "يس",
+        "start": "verse_68",
+        "end": "verse_83"
+    },
+    {
+        "index": "386",
+        "manzil": "6",
+        "suraIndex": "037",
+        "suraName": "As-Saffat",
+        "suraNameAr": "الصافات",
+        "start": "verse_1",
+        "end": "verse_21"
+    },
+    {
+        "index": "387",
+        "manzil": "6",
+        "suraIndex": "037",
+        "suraName": "As-Saffat",
+        "suraNameAr": "الصافات",
+        "start": "verse_22",
+        "end": "verse_74"
+    },
+    {
+        "index": "388",
+        "manzil": "6",
+        "suraIndex": "037",
+        "suraName": "As-Saffat",
+        "suraNameAr": "الصافات",
+        "start": "verse_75",
+        "end": "verse_113"
+    },
+    {
+        "index": "389",
+        "manzil": "6",
+        "suraIndex": "037",
+        "suraName": "As-Saffat",
+        "suraNameAr": "الصافات",
+        "start": "verse_114",
+        "end": "verse_138"
+    },
+    {
+        "index": "390",
+        "manzil": "6",
+        "suraIndex": "037",
+        "suraName": "As-Saffat",
+        "suraNameAr": "الصافات",
+        "start": "verse_139",
+        "end": "verse_182"
+    },
+    {
+        "index": "391",
+        "manzil": "6",
+        "suraIndex": "038",
+        "suraName": "Sad",
+        "suraNameAr": "ص",
+        "start": "verse_1",
+        "end": "verse_14"
+    },
+    {
+        "index": "392",
+        "manzil": "6",
+        "suraIndex": "038",
+        "suraName": "Sad",
+        "suraNameAr": "ص",
+        "start": "verse_15",
+        "end": "verse_26"
+    },
+    {
+        "index": "393",
+        "manzil": "6",
+        "suraIndex": "038",
+        "suraName": "Sad",
+        "suraNameAr": "ص",
+        "start": "verse_27",
+        "end": "verse_40"
+    },
+    {
+        "index": "394",
+        "manzil": "6",
+        "suraIndex": "038",
+        "suraName": "Sad",
+        "suraNameAr": "ص",
+        "start": "verse_41",
+        "end": "verse_64"
+    },
+    {
+        "index": "395",
+        "manzil": "6",
+        "suraIndex": "038",
+        "suraName": "Sad",
+        "suraNameAr": "ص",
+        "start": "verse_65",
+        "end": "verse_88"
+    },
+    {
+        "index": "396",
+        "manzil": "6",
+        "suraIndex": "039",
+        "suraName": "Az-Zumar",
+        "suraNameAr": "الزمر",
+        "start": "verse_1",
+        "end": "verse_9"
+    },
+    {
+        "index": "397",
+        "manzil": "6",
+        "suraIndex": "039",
+        "suraName": "Az-Zumar",
+        "suraNameAr": "الزمر",
+        "start": "verse_10",
+        "end": "verse_21"
+    },
+    {
+        "index": "398",
+        "manzil": "6",
+        "suraIndex": "039",
+        "suraName": "Az-Zumar",
+        "suraNameAr": "الزمر",
+        "start": "verse_22",
+        "end": "verse_31"
+    },
+    {
+        "index": "399",
+        "manzil": "6",
+        "suraIndex": "039",
+        "suraName": "Az-Zumar",
+        "suraNameAr": "الزمر",
+        "start": "verse_32",
+        "end": "verse_41"
+    },
+    {
+        "index": "400",
+        "manzil": "6",
+        "suraIndex": "039",
+        "suraName": "Az-Zumar",
+        "suraNameAr": "الزمر",
+        "start": "verse_42",
+        "end": "verse_52"
+    },
+    {
+        "index": "401",
+        "manzil": "6",
+        "suraIndex": "039",
+        "suraName": "Az-Zumar",
+        "suraNameAr": "الزمر",
+        "start": "verse_53",
+        "end": "verse_63"
+    },
+    {
+        "index": "402",
+        "manzil": "6",
+        "suraIndex": "039",
+        "suraName": "Az-Zumar",
+        "suraNameAr": "الزمر",
+        "start": "verse_64",
+        "end": "verse_70"
+    },
+    {
+        "index": "403",
+        "manzil": "6",
+        "suraIndex": "039",
+        "suraName": "Az-Zumar",
+        "suraNameAr": "الزمر",
+        "start": "verse_71",
+        "end": "verse_75"
+    },
+    {
+        "index": "404",
+        "manzil": "6",
+        "suraIndex": "040",
+        "suraName": "Ghafir",
+        "suraNameAr": "غافر",
+        "start": "verse_1",
+        "end": "verse_9"
+    },
+    {
+        "index": "405",
+        "manzil": "6",
+        "suraIndex": "040",
+        "suraName": "Ghafir",
+        "suraNameAr": "غافر",
+        "start": "verse_10",
+        "end": "verse_20"
+    },
+    {
+        "index": "406",
+        "manzil": "6",
+        "suraIndex": "040",
+        "suraName": "Ghafir",
+        "suraNameAr": "غافر",
+        "start": "verse_21",
+        "end": "verse_27"
+    },
+    {
+        "index": "407",
+        "manzil": "6",
+        "suraIndex": "040",
+        "suraName": "Ghafir",
+        "suraNameAr": "غافر",
+        "start": "verse_28",
+        "end": "verse_37"
+    },
+    {
+        "index": "408",
+        "manzil": "6",
+        "suraIndex": "040",
+        "suraName": "Ghafir",
+        "suraNameAr": "غافر",
+        "start": "verse_38",
+        "end": "verse_50"
+    },
+    {
+        "index": "409",
+        "manzil": "6",
+        "suraIndex": "040",
+        "suraName": "Ghafir",
+        "suraNameAr": "غافر",
+        "start": "verse_51",
+        "end": "verse_60"
+    },
+    {
+        "index": "410",
+        "manzil": "6",
+        "suraIndex": "040",
+        "suraName": "Ghafir",
+        "suraNameAr": "غافر",
+        "start": "verse_61",
+        "end": "verse_68"
+    },
+    {
+        "index": "411",
+        "manzil": "6",
+        "suraIndex": "040",
+        "suraName": "Ghafir",
+        "suraNameAr": "غافر",
+        "start": "verse_69",
+        "end": "verse_78"
+    },
+    {
+        "index": "412",
+        "manzil": "6",
+        "suraIndex": "040",
+        "suraName": "Ghafir",
+        "suraNameAr": "غافر",
+        "start": "verse_79",
+        "end": "verse_85"
+    },
+    {
+        "index": "413",
+        "manzil": "6",
+        "suraIndex": "041",
+        "suraName": "Fussilat",
+        "suraNameAr": "فصلت",
+        "start": "verse_1",
+        "end": "verse_8"
+    },
+    {
+        "index": "414",
+        "manzil": "6",
+        "suraIndex": "041",
+        "suraName": "Fussilat",
+        "suraNameAr": "فصلت",
+        "start": "verse_9",
+        "end": "verse_18"
+    },
+    {
+        "index": "415",
+        "manzil": "6",
+        "suraIndex": "041",
+        "suraName": "Fussilat",
+        "suraNameAr": "فصلت",
+        "start": "verse_19",
+        "end": "verse_25"
+    },
+    {
+        "index": "416",
+        "manzil": "6",
+        "suraIndex": "041",
+        "suraName": "Fussilat",
+        "suraNameAr": "فصلت",
+        "start": "verse_26",
+        "end": "verse_32"
+    },
+    {
+        "index": "417",
+        "manzil": "6",
+        "suraIndex": "041",
+        "suraName": "Fussilat",
+        "suraNameAr": "فصلت",
+        "start": "verse_33",
+        "end": "verse_44"
+    },
+    {
+        "index": "418",
+        "manzil": "6",
+        "suraIndex": "041",
+        "suraName": "Fussilat",
+        "suraNameAr": "فصلت",
+        "start": "verse_45",
+        "end": "verse_54"
+    },
+    {
+        "index": "419",
+        "manzil": "6",
+        "suraIndex": "042",
+        "suraName": "Ash-Shura",
+        "suraNameAr": "الشورى",
+        "start": "verse_1",
+        "end": "verse_9"
+    },
+    {
+        "index": "420",
+        "manzil": "6",
+        "suraIndex": "042",
+        "suraName": "Ash-Shura",
+        "suraNameAr": "الشورى",
+        "start": "verse_10",
+        "end": "verse_19"
+    },
+    {
+        "index": "421",
+        "manzil": "6",
+        "suraIndex": "042",
+        "suraName": "Ash-Shura",
+        "suraNameAr": "الشورى",
+        "start": "verse_20",
+        "end": "verse_29"
+    },
+    {
+        "index": "422",
+        "manzil": "6",
+        "suraIndex": "042",
+        "suraName": "Ash-Shura",
+        "suraNameAr": "الشورى",
+        "start": "verse_30",
+        "end": "verse_43"
+    },
+    {
+        "index": "423",
+        "manzil": "6",
+        "suraIndex": "042",
+        "suraName": "Ash-Shura",
+        "suraNameAr": "الشورى",
+        "start": "verse_44",
+        "end": "verse_53"
+    },
+    {
+        "index": "424",
+        "manzil": "6",
+        "suraIndex": "043",
+        "suraName": "Az-Zukhruf",
+        "suraNameAr": "الزخرف",
+        "start": "verse_1",
+        "end": "verse_15"
+    },
+    {
+        "index": "425",
+        "manzil": "6",
+        "suraIndex": "043",
+        "suraName": "Az-Zukhruf",
+        "suraNameAr": "الزخرف",
+        "start": "verse_16",
+        "end": "verse_25"
+    },
+    {
+        "index": "426",
+        "manzil": "6",
+        "suraIndex": "043",
+        "suraName": "Az-Zukhruf",
+        "suraNameAr": "الزخرف",
+        "start": "verse_26",
+        "end": "verse_35"
+    },
+    {
+        "index": "427",
+        "manzil": "6",
+        "suraIndex": "043",
+        "suraName": "Az-Zukhruf",
+        "suraNameAr": "الزخرف",
+        "start": "verse_36",
+        "end": "verse_45"
+    },
+    {
+        "index": "428",
+        "manzil": "6",
+        "suraIndex": "043",
+        "suraName": "Az-Zukhruf",
+        "suraNameAr": "الزخرف",
+        "start": "verse_46",
+        "end": "verse_56"
+    },
+    {
+        "index": "429",
+        "manzil": "6",
+        "suraIndex": "043",
+        "suraName": "Az-Zukhruf",
+        "suraNameAr": "الزخرف",
+        "start": "verse_57",
+        "end": "verse_67"
+    },
+    {
+        "index": "430",
+        "manzil": "6",
+        "suraIndex": "043",
+        "suraName": "Az-Zukhruf",
+        "suraNameAr": "الزخرف",
+        "start": "verse_68",
+        "end": "verse_89"
+    },
+    {
+        "index": "431",
+        "manzil": "6",
+        "suraIndex": "044",
+        "suraName": "Ad-Dukhan",
+        "suraNameAr": "الدخان",
+        "start": "verse_1",
+        "end": "verse_29"
+    },
+    {
+        "index": "432",
+        "manzil": "6",
+        "suraIndex": "044",
+        "suraName": "Ad-Dukhan",
+        "suraNameAr": "الدخان",
+        "start": "verse_30",
+        "end": "verse_42"
+    },
+    {
+        "index": "433",
+        "manzil": "6",
+        "suraIndex": "044",
+        "suraName": "Ad-Dukhan",
+        "suraNameAr": "الدخان",
+        "start": "verse_43",
+        "end": "verse_59"
+    },
+    {
+        "index": "434",
+        "manzil": "6",
+        "suraIndex": "045",
+        "suraName": "Al-Jathiya",
+        "suraNameAr": "الجاثية",
+        "start": "verse_1",
+        "end": "verse_11"
+    },
+    {
+        "index": "435",
+        "manzil": "6",
+        "suraIndex": "045",
+        "suraName": "Al-Jathiya",
+        "suraNameAr": "الجاثية",
+        "start": "verse_12",
+        "end": "verse_21"
+    },
+    {
+        "index": "436",
+        "manzil": "6",
+        "suraIndex": "045",
+        "suraName": "Al-Jathiya",
+        "suraNameAr": "الجاثية",
+        "start": "verse_22",
+        "end": "verse_26"
+    },
+    {
+        "index": "437",
+        "manzil": "6",
+        "suraIndex": "045",
+        "suraName": "Al-Jathiya",
+        "suraNameAr": "الجاثية",
+        "start": "verse_27",
+        "end": "verse_37"
+    },
+    {
+        "index": "438",
+        "manzil": "6",
+        "suraIndex": "046",
+        "suraName": "Al-Ahqaf",
+        "suraNameAr": "الأحقاف",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "439",
+        "manzil": "6",
+        "suraIndex": "046",
+        "suraName": "Al-Ahqaf",
+        "suraNameAr": "الأحقاف",
+        "start": "verse_11",
+        "end": "verse_20"
+    },
+    {
+        "index": "440",
+        "manzil": "6",
+        "suraIndex": "046",
+        "suraName": "Al-Ahqaf",
+        "suraNameAr": "الأحقاف",
+        "start": "verse_21",
+        "end": "verse_26"
+    },
+    {
+        "index": "441",
+        "manzil": "6",
+        "suraIndex": "046",
+        "suraName": "Al-Ahqaf",
+        "suraNameAr": "الأحقاف",
+        "start": "verse_27",
+        "end": "verse_35"
+    },
+    {
+        "index": "442",
+        "manzil": "6",
+        "suraIndex": "047",
+        "suraName": "Muhammad",
+        "suraNameAr": "محمد",
+        "start": "verse_1",
+        "end": "verse_11"
+    },
+    {
+        "index": "443",
+        "manzil": "6",
+        "suraIndex": "047",
+        "suraName": "Muhammad",
+        "suraNameAr": "محمد",
+        "start": "verse_12",
+        "end": "verse_19"
+    },
+    {
+        "index": "444",
+        "manzil": "6",
+        "suraIndex": "047",
+        "suraName": "Muhammad",
+        "suraNameAr": "محمد",
+        "start": "verse_20",
+        "end": "verse_28"
+    },
+    {
+        "index": "445",
+        "manzil": "6",
+        "suraIndex": "047",
+        "suraName": "Muhammad",
+        "suraNameAr": "محمد",
+        "start": "verse_29",
+        "end": "verse_38"
+    },
+    {
+        "index": "446",
+        "manzil": "6",
+        "suraIndex": "048",
+        "suraName": "Al-Fath",
+        "suraNameAr": "الفتح",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "447",
+        "manzil": "6",
+        "suraIndex": "048",
+        "suraName": "Al-Fath",
+        "suraNameAr": "الفتح",
+        "start": "verse_11",
+        "end": "verse_17"
+    },
+    {
+        "index": "448",
+        "manzil": "6",
+        "suraIndex": "048",
+        "suraName": "Al-Fath",
+        "suraNameAr": "الفتح",
+        "start": "verse_18",
+        "end": "verse_26"
+    },
+    {
+        "index": "449",
+        "manzil": "6",
+        "suraIndex": "048",
+        "suraName": "Al-Fath",
+        "suraNameAr": "الفتح",
+        "start": "verse_27",
+        "end": "verse_29"
+    },
+    {
+        "index": "450",
+        "manzil": "6",
+        "suraIndex": "049",
+        "suraName": "Al-Hujurat",
+        "suraNameAr": "الحجرات",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "451",
+        "manzil": "6",
+        "suraIndex": "049",
+        "suraName": "Al-Hujurat",
+        "suraNameAr": "الحجرات",
+        "start": "verse_11",
+        "end": "verse_18"
+    },
+    {
+        "index": "452",
+        "manzil": "7",
+        "suraIndex": "050",
+        "suraName": "Qaf",
+        "suraNameAr": "ق",
+        "start": "verse_1",
+        "end": "verse_15"
+    },
+    {
+        "index": "453",
+        "manzil": "7",
+        "suraIndex": "050",
+        "suraName": "Qaf",
+        "suraNameAr": "ق",
+        "start": "verse_16",
+        "end": "verse_29"
+    },
+    {
+        "index": "454",
+        "manzil": "7",
+        "suraIndex": "050",
+        "suraName": "Qaf",
+        "suraNameAr": "ق",
+        "start": "verse_30",
+        "end": "verse_45"
+    },
+    {
+        "index": "455",
+        "manzil": "7",
+        "suraIndex": "051",
+        "suraName": "Az-Zariyat",
+        "suraNameAr": "الذاريات",
+        "start": "verse_1",
+        "end": "verse_23"
+    },
+    {
+        "index": "456",
+        "manzil": "7",
+        "suraIndex": "051",
+        "suraName": "Az-Zariyat",
+        "suraNameAr": "الذاريات",
+        "start": "verse_24",
+        "end": "verse_46"
+    },
+    {
+        "index": "457",
+        "manzil": "7",
+        "suraIndex": "051",
+        "suraName": "Az-Zariyat",
+        "suraNameAr": "الذاريات",
+        "start": "verse_47",
+        "end": "verse_60"
+    },
+    {
+        "index": "458",
+        "manzil": "7",
+        "suraIndex": "052",
+        "suraName": "At-Tur",
+        "suraNameAr": "الطور",
+        "start": "verse_1",
+        "end": "verse_28"
+    },
+    {
+        "index": "459",
+        "manzil": "7",
+        "suraIndex": "052",
+        "suraName": "At-Tur",
+        "suraNameAr": "الطور",
+        "start": "verse_29",
+        "end": "verse_49"
+    },
+    {
+        "index": "460",
+        "manzil": "7",
+        "suraIndex": "053",
+        "suraName": "An-Najm",
+        "suraNameAr": "النجم",
+        "start": "verse_1",
+        "end": "verse_25"
+    },
+    {
+        "index": "461",
+        "manzil": "7",
+        "suraIndex": "053",
+        "suraName": "An-Najm",
+        "suraNameAr": "النجم",
+        "start": "verse_26",
+        "end": "verse_32"
+    },
+    {
+        "index": "462",
+        "manzil": "7",
+        "suraIndex": "053",
+        "suraName": "An-Najm",
+        "suraNameAr": "النجم",
+        "start": "verse_33",
+        "end": "verse_62"
+    },
+    {
+        "index": "463",
+        "manzil": "7",
+        "suraIndex": "054",
+        "suraName": "Al-Qamar",
+        "suraNameAr": "القمر",
+        "start": "verse_1",
+        "end": "verse_22"
+    },
+    {
+        "index": "464",
+        "manzil": "7",
+        "suraIndex": "054",
+        "suraName": "Al-Qamar",
+        "suraNameAr": "القمر",
+        "start": "verse_23",
+        "end": "verse_40"
+    },
+    {
+        "index": "465",
+        "manzil": "7",
+        "suraIndex": "054",
+        "suraName": "Al-Qamar",
+        "suraNameAr": "القمر",
+        "start": "verse_41",
+        "end": "verse_55"
+    },
+    {
+        "index": "466",
+        "manzil": "7",
+        "suraIndex": "055",
+        "suraName": "Ar-Rahman",
+        "suraNameAr": "الرحمن",
+        "start": "verse_1",
+        "end": "verse_25"
+    },
+    {
+        "index": "467",
+        "manzil": "7",
+        "suraIndex": "055",
+        "suraName": "Ar-Rahman",
+        "suraNameAr": "الرحمن",
+        "start": "verse_26",
+        "end": "verse_45"
+    },
+    {
+        "index": "468",
+        "manzil": "7",
+        "suraIndex": "055",
+        "suraName": "Ar-Rahman",
+        "suraNameAr": "الرحمن",
+        "start": "verse_46",
+        "end": "verse_78"
+    },
+    {
+        "index": "469",
+        "manzil": "7",
+        "suraIndex": "056",
+        "suraName": "Al-Waqia",
+        "suraNameAr": "الواقعة",
+        "start": "verse_1",
+        "end": "verse_38"
+    },
+    {
+        "index": "470",
+        "manzil": "7",
+        "suraIndex": "056",
+        "suraName": "Al-Waqia",
+        "suraNameAr": "الواقعة",
+        "start": "verse_39",
+        "end": "verse_74"
+    },
+    {
+        "index": "471",
+        "manzil": "7",
+        "suraIndex": "056",
+        "suraName": "Al-Waqia",
+        "suraNameAr": "الواقعة",
+        "start": "verse_75",
+        "end": "verse_96"
+    },
+    {
+        "index": "472",
+        "manzil": "7",
+        "suraIndex": "057",
+        "suraName": "Al-Hadid",
+        "suraNameAr": "الحديد",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "473",
+        "manzil": "7",
+        "suraIndex": "057",
+        "suraName": "Al-Hadid",
+        "suraNameAr": "الحديد",
+        "start": "verse_11",
+        "end": "verse_19"
+    },
+    {
+        "index": "474",
+        "manzil": "7",
+        "suraIndex": "057",
+        "suraName": "Al-Hadid",
+        "suraNameAr": "الحديد",
+        "start": "verse_20",
+        "end": "verse_25"
+    },
+    {
+        "index": "475",
+        "manzil": "7",
+        "suraIndex": "057",
+        "suraName": "Al-Hadid",
+        "suraNameAr": "الحديد",
+        "start": "verse_26",
+        "end": "verse_29"
+    },
+    {
+        "index": "476",
+        "manzil": "7",
+        "suraIndex": "058",
+        "suraName": "Al-Mujadilah",
+        "suraNameAr": "المجادلة",
+        "start": "verse_1",
+        "end": "verse_6"
+    },
+    {
+        "index": "477",
+        "manzil": "7",
+        "suraIndex": "058",
+        "suraName": "Al-Mujadilah",
+        "suraNameAr": "المجادلة",
+        "start": "verse_7",
+        "end": "verse_13"
+    },
+    {
+        "index": "478",
+        "manzil": "7",
+        "suraIndex": "058",
+        "suraName": "Al-Mujadilah",
+        "suraNameAr": "المجادلة",
+        "start": "verse_14",
+        "end": "verse_22"
+    },
+    {
+        "index": "479",
+        "manzil": "7",
+        "suraIndex": "059",
+        "suraName": "Al-Hashr",
+        "suraNameAr": "الحشر",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "480",
+        "manzil": "7",
+        "suraIndex": "059",
+        "suraName": "Al-Hashr",
+        "suraNameAr": "الحشر",
+        "start": "verse_11",
+        "end": "verse_17"
+    },
+    {
+        "index": "481",
+        "manzil": "7",
+        "suraIndex": "059",
+        "suraName": "Al-Hashr",
+        "suraNameAr": "الحشر",
+        "start": "verse_18",
+        "end": "verse_24"
+    },
+    {
+        "index": "482",
+        "manzil": "7",
+        "suraIndex": "060",
+        "suraName": "Al-Mumtahinah",
+        "suraNameAr": "الممتحنة",
+        "start": "verse_1",
+        "end": "verse_6"
+    },
+    {
+        "index": "483",
+        "manzil": "7",
+        "suraIndex": "060",
+        "suraName": "Al-Mumtahinah",
+        "suraNameAr": "الممتحنة",
+        "start": "verse_7",
+        "end": "verse_13"
+    },
+    {
+        "index": "484",
+        "manzil": "7",
+        "suraIndex": "061",
+        "suraName": "As-Saff",
+        "suraNameAr": "الصف",
+        "start": "verse_1",
+        "end": "verse_9"
+    },
+    {
+        "index": "485",
+        "manzil": "7",
+        "suraIndex": "061",
+        "suraName": "As-Saff",
+        "suraNameAr": "الصف",
+        "start": "verse_10",
+        "end": "verse_14"
+    },
+    {
+        "index": "486",
+        "manzil": "7",
+        "suraIndex": "062",
+        "suraName": "Al-Jumu'ah",
+        "suraNameAr": "الجمعة",
+        "start": "verse_1",
+        "end": "verse_8"
+    },
+    {
+        "index": "487",
+        "manzil": "7",
+        "suraIndex": "062",
+        "suraName": "Al-Jumu'ah",
+        "suraNameAr": "الجمعة",
+        "start": "verse_9",
+        "end": "verse_11"
+    },
+    {
+        "index": "488",
+        "manzil": "7",
+        "suraIndex": "063",
+        "suraName": "Al-Munafiqun",
+        "suraNameAr": "المنافقون",
+        "start": "verse_1",
+        "end": "verse_8"
+    },
+    {
+        "index": "489",
+        "manzil": "7",
+        "suraIndex": "063",
+        "suraName": "Al-Munafiqun",
+        "suraNameAr": "المنافقون",
+        "start": "verse_9",
+        "end": "verse_11"
+    },
+    {
+        "index": "490",
+        "manzil": "7",
+        "suraIndex": "064",
+        "suraName": "At-Taghabun",
+        "suraNameAr": "التغابن",
+        "start": "verse_1",
+        "end": "verse_10"
+    },
+    {
+        "index": "491",
+        "manzil": "7",
+        "suraIndex": "064",
+        "suraName": "At-Taghabun",
+        "suraNameAr": "التغابن",
+        "start": "verse_11",
+        "end": "verse_18"
+    },
+    {
+        "index": "492",
+        "manzil": "7",
+        "suraIndex": "065",
+        "suraName": "At-Talaq",
+        "suraNameAr": "الطلاق",
+        "start": "verse_1",
+        "end": "verse_7"
+    },
+    {
+        "index": "493",
+        "manzil": "7",
+        "suraIndex": "065",
+        "suraName": "At-Talaq",
+        "suraNameAr": "الطلاق",
+        "start": "verse_8",
+        "end": "verse_12"
+    },
+    {
+        "index": "494",
+        "manzil": "7",
+        "suraIndex": "066",
+        "suraName": "At-Tahrim",
+        "suraNameAr": "التحريم",
+        "start": "verse_1",
+        "end": "verse_7"
+    },
+    {
+        "index": "495",
+        "manzil": "7",
+        "suraIndex": "066",
+        "suraName": "At-Tahrim",
+        "suraNameAr": "التحريم",
+        "start": "verse_8",
+        "end": "verse_12"
+    },
+    {
+        "index": "496",
+        "manzil": "7",
+        "suraIndex": "067",
+        "suraName": "Al-Mulk",
+        "suraNameAr": "الملك",
+        "start": "verse_1",
+        "end": "verse_14"
+    },
+    {
+        "index": "497",
+        "manzil": "7",
+        "suraIndex": "067",
+        "suraName": "Al-Mulk",
+        "suraNameAr": "الملك",
+        "start": "verse_15",
+        "end": "verse_30"
+    },
+    {
+        "index": "498",
+        "manzil": "7",
+        "suraIndex": "068",
+        "suraName": "Al-Qalam",
+        "suraNameAr": "القلم",
+        "start": "verse_1",
+        "end": "verse_33"
+    },
+    {
+        "index": "499",
+        "manzil": "7",
+        "suraIndex": "068",
+        "suraName": "Al-Qalam",
+        "suraNameAr": "القلم",
+        "start": "verse_34",
+        "end": "verse_52"
+    },
+    {
+        "index": "500",
+        "manzil": "7",
+        "suraIndex": "069",
+        "suraName": "Al-Haqqah",
+        "suraNameAr": "الحاقة",
+        "start": "verse_1",
+        "end": "verse_37"
+    },
+    {
+        "index": "501",
+        "manzil": "7",
+        "suraIndex": "069",
+        "suraName": "Al-Haqqah",
+        "suraNameAr": "الحاقة",
+        "start": "verse_38",
+        "end": "verse_52"
+    },
+    {
+        "index": "502",
+        "manzil": "7",
+        "suraIndex": "070",
+        "suraName": "Al-Ma'arij",
+        "suraNameAr": "المعارج",
+        "start": "verse_1",
+        "end": "verse_35"
+    },
+    {
+        "index": "503",
+        "manzil": "7",
+        "suraIndex": "070",
+        "suraName": "Al-Ma'arij",
+        "suraNameAr": "المعارج",
+        "start": "verse_36",
+        "end": "verse_44"
+    },
+    {
+        "index": "504",
+        "manzil": "7",
+        "suraIndex": "071",
+        "suraName": "Nuh",
+        "suraNameAr": "نوح",
+        "start": "verse_1",
+        "end": "verse_20"
+    },
+    {
+        "index": "505",
+        "manzil": "7",
+        "suraIndex": "071",
+        "suraName": "Nuh",
+        "suraNameAr": "نوح",
+        "start": "verse_21",
+        "end": "verse_28"
+    },
+    {
+        "index": "506",
+        "manzil": "7",
+        "suraIndex": "072",
+        "suraName": "Al-Jinn",
+        "suraNameAr": "الجن",
+        "start": "verse_1",
+        "end": "verse_19"
+    },
+    {
+        "index": "507",
+        "manzil": "7",
+        "suraIndex": "072",
+        "suraName": "Al-Jinn",
+        "suraNameAr": "الجن",
+        "start": "verse_20",
+        "end": "verse_28"
+    },
+    {
+        "index": "508",
+        "manzil": "7",
+        "suraIndex": "073",
+        "suraName": "Al-Muzzammil",
+        "suraNameAr": "المزمل",
+        "start": "verse_1",
+        "end": "verse_19"
+    },
+    {
+        "index": "509",
+        "manzil": "7",
+        "suraIndex": "073",
+        "suraName": "Al-Muzzammil",
+        "suraNameAr": "المزمل",
+        "start": "verse_20",
+        "end": "verse_20"
+    },
+    {
+        "index": "510",
+        "manzil": "7",
+        "suraIndex": "074",
+        "suraName": "Al-Muddaththir",
+        "suraNameAr": "المدثر",
+        "start": "verse_1",
+        "end": "verse_31"
+    },
+    {
+        "index": "511",
+        "manzil": "7",
+        "suraIndex": "074",
+        "suraName": "Al-Muddaththir",
+        "suraNameAr": "المدثر",
+        "start": "verse_32",
+        "end": "verse_56"
+    },
+    {
+        "index": "512",
+        "manzil": "7",
+        "suraIndex": "075",
+        "suraName": "Al-Qiyamah",
+        "suraNameAr": "القيامة",
+        "start": "verse_1",
+        "end": "verse_30"
+    },
+    {
+        "index": "513",
+        "manzil": "7",
+        "suraIndex": "075",
+        "suraName": "Al-Qiyamah",
+        "suraNameAr": "القيامة",
+        "start": "verse_31",
+        "end": "verse_40"
+    },
+    {
+        "index": "514",
+        "manzil": "7",
+        "suraIndex": "076",
+        "suraName": "Al-Insan",
+        "suraNameAr": "الإنسان",
+        "start": "verse_1",
+        "end": "verse_22"
+    },
+    {
+        "index": "515",
+        "manzil": "7",
+        "suraIndex": "076",
+        "suraName": "Al-Insan",
+        "suraNameAr": "الإنسان",
+        "start": "verse_23",
+        "end": "verse_31"
+    },
+    {
+        "index": "516",
+        "manzil": "7",
+        "suraIndex": "077",
+        "suraName": "Al-Mursalat",
+        "suraNameAr": "المرسلات",
+        "start": "verse_1",
+        "end": "verse_40"
+    },
+    {
+        "index": "517",
+        "manzil": "7",
+        "suraIndex": "077",
+        "suraName": "Al-Mursalat",
+        "suraNameAr": "المرسلات",
+        "start": "verse_41",
+        "end": "verse_50"
+    },
+    {
+        "index": "518",
+        "manzil": "7",
+        "suraIndex": "078",
+        "suraName": "An-Naba",
+        "suraNameAr": "النبأ",
+        "start": "verse_1",
+        "end": "verse_30"
+    },
+    {
+        "index": "519",
+        "manzil": "7",
+        "suraIndex": "078",
+        "suraName": "An-Naba",
+        "suraNameAr": "النبأ",
+        "start": "verse_31",
+        "end": "verse_40"
+    },
+    {
+        "index": "520",
+        "manzil": "7",
+        "suraIndex": "079",
+        "suraName": "An-Naziat",
+        "suraNameAr": "النازعات",
+        "start": "verse_1",
+        "end": "verse_26"
+    },
+    {
+        "index": "521",
+        "manzil": "7",
+        "suraIndex": "079",
+        "suraName": "An-Naziat",
+        "suraNameAr": "النازعات",
+        "start": "verse_27",
+        "end": "verse_46"
+    },
+    {
+        "index": "522",
+        "manzil": "7",
+        "suraIndex": "080",
+        "suraName": "Abasa",
+        "suraNameAr": "عبس",
+        "start": "verse_1",
+        "end": "verse_42"
+    },
+    {
+        "index": "523",
+        "manzil": "7",
+        "suraIndex": "081",
+        "suraName": "At-Takwir",
+        "suraNameAr": "التكوير",
+        "start": "verse_1",
+        "end": "verse_29"
+    },
+    {
+        "index": "524",
+        "manzil": "7",
+        "suraIndex": "082",
+        "suraName": "Al-Infitar",
+        "suraNameAr": "الانفطار",
+        "start": "verse_1",
+        "end": "verse_19"
+    },
+    {
+        "index": "525",
+        "manzil": "7",
+        "suraIndex": "083",
+        "suraName": "Al-Mutaffifin",
+        "suraNameAr": "المطففين",
+        "start": "verse_1",
+        "end": "verse_36"
+    },
+    {
+        "index": "526",
+        "manzil": "7",
+        "suraIndex": "084",
+        "suraName": "Al-Inshiqaq",
+        "suraNameAr": "الانشقاق",
+        "start": "verse_1",
+        "end": "verse_25"
+    },
+    {
+        "index": "527",
+        "manzil": "7",
+        "suraIndex": "085",
+        "suraName": "Al-Buruj",
+        "suraNameAr": "البروج",
+        "start": "verse_1",
+        "end": "verse_22"
+    },
+    {
+        "index": "528",
+        "manzil": "7",
+        "suraIndex": "086",
+        "suraName": "At-Tariq",
+        "suraNameAr": "الطارق",
+        "start": "verse_1",
+        "end": "verse_17"
+    },
+    {
+        "index": "529",
+        "manzil": "7",
+        "suraIndex": "087",
+        "suraName": "Al-Ala",
+        "suraNameAr": "الأعلى",
+        "start": "verse_1",
+        "end": "verse_19"
+    },
+    {
+        "index": "530",
+        "manzil": "7",
+        "suraIndex": "088",
+        "suraName": "Al-Ghashiyah",
+        "suraNameAr": "الغاشية",
+        "start": "verse_1",
+        "end": "verse_26"
+    },
+    {
+        "index": "531",
+        "manzil": "7",
+        "suraIndex": "089",
+        "suraName": "Al-Fajr",
+        "suraNameAr": "الفجر",
+        "start": "verse_1",
+        "end": "verse_30"
+    },
+    {
+        "index": "532",
+        "manzil": "7",
+        "suraIndex": "090",
+        "suraName": "Al-Balad",
+        "suraNameAr": "البلد",
+        "start": "verse_1",
+        "end": "verse_20"
+    },
+    {
+        "index": "533",
+        "manzil": "7",
+        "suraIndex": "091",
+        "suraName": "Ash-Shams",
+        "suraNameAr": "الشمس",
+        "start": "verse_1",
+        "end": "verse_15"
+    },
+    {
+        "index": "534",
+        "manzil": "7",
+        "suraIndex": "092",
+        "suraName": "Al-Lail",
+        "suraNameAr": "الليل",
+        "start": "verse_1",
+        "end": "verse_21"
+    },
+    {
+        "index": "535",
+        "manzil": "7",
+        "suraIndex": "093",
+        "suraName": "Ad-Duha",
+        "suraNameAr": "الضحى",
+        "start": "verse_1",
+        "end": "verse_11"
+    },
+    {
+        "index": "536",
+        "manzil": "7",
+        "suraIndex": "094",
+        "suraName": "Ash-Sharh",
+        "suraNameAr": "الشرح",
+        "start": "verse_1",
+        "end": "verse_8"
+    },
+    {
+        "index": "537",
+        "manzil": "7",
+        "suraIndex": "095",
+        "suraName": "At-Tin",
+        "suraNameAr": "التين",
+        "start": "verse_1",
+        "end": "verse_8"
+    },
+    {
+        "index": "538",
+        "manzil": "7",
+        "suraIndex": "096",
+        "suraName": "Al-Alaq",
+        "suraNameAr": "العلق",
+        "start": "verse_1",
+        "end": "verse_19"
+    },
+    {
+        "index": "539",
+        "manzil": "7",
+        "suraIndex": "097",
+        "suraName": "Al-Qadr",
+        "suraNameAr": "القدر",
+        "start": "verse_1",
+        "end": "verse_5"
+    },
+    {
+        "index": "540",
+        "manzil": "7",
+        "suraIndex": "098",
+        "suraName": "Al-Bayinah",
+        "suraNameAr": "البينة",
+        "start": "verse_1",
+        "end": "verse_8"
+    },
+    {
+        "index": "541",
+        "manzil": "7",
+        "suraIndex": "099",
+        "suraName": "Az-Zalzalah",
+        "suraNameAr": "الزلزلة",
+        "start": "verse_1",
+        "end": "verse_8"
+    },
+    {
+        "index": "542",
+        "manzil": "7",
+        "suraIndex": "100",
+        "suraName": "Al-Adiyat",
+        "suraNameAr": "العاديات",
+        "start": "verse_1",
+        "end": "verse_11"
+    },
+    {
+        "index": "543",
+        "manzil": "7",
+        "suraIndex": "101",
+        "suraName": "Al-Qariah",
+        "suraNameAr": "القارعة",
+        "start": "verse_1",
+        "end": "verse_11"
+    },
+    {
+        "index": "544",
+        "manzil": "7",
+        "suraIndex": "102",
+        "suraName": "Al-Takathur",
+        "suraNameAr": "التكاثر",
+        "start": "verse_1",
+        "end": "verse_8"
+    },
+    {
+        "index": "545",
+        "manzil": "7",
+        "suraIndex": "103",
+        "suraName": "Al-Asr",
+        "suraNameAr": "العصر",
+        "start": "verse_1",
+        "end": "verse_3"
+    },
+    {
+        "index": "546",
+        "manzil": "7",
+        "suraIndex": "104",
+        "suraName": "Al-Humazah",
+        "suraNameAr": "الهمزة",
+        "start": "verse_1",
+        "end": "verse_9"
+    },
+    {
+        "index": "547",
+        "manzil": "7",
+        "suraIndex": "105",
+        "suraName": "Al-Fil",
+        "suraNameAr": "الفيل",
+        "start": "verse_1",
+        "end": "verse_5"
+    },
+    {
+        "index": "548",
+        "manzil": "7",
+        "suraIndex": "106",
+        "suraName": "Quraish",
+        "suraNameAr": "قريش",
+        "start": "verse_1",
+        "end": "verse_4"
+    },
+    {
+        "index": "549",
+        "manzil": "7",
+        "suraIndex": "107",
+        "suraName": "Al-Ma'un",
+        "suraNameAr": "الماعون",
+        "start": "verse_1",
+        "end": "verse_7"
+    },
+    {
+        "index": "550",
+        "manzil": "7",
+        "suraIndex": "108",
+        "suraName": "Al-Kauthar",
+        "suraNameAr": "الكوثر",
+        "start": "verse_1",
+        "end": "verse_3"
+    },
+    {
+        "index": "551",
+        "manzil": "7",
+        "suraIndex": "109",
+        "suraName": "Al-Kafirun",
+        "suraNameAr": "الكافرون",
+        "start": "verse_1",
+        "end": "verse_6"
+    },
+    {
+        "index": "552",
+        "manzil": "7",
+        "suraIndex": "110",
+        "suraName": "An-Nasr",
+        "suraNameAr": "النصر",
+        "start": "verse_1",
+        "end": "verse_3"
+    },
+    {
+        "index": "553",
+        "manzil": "7",
+        "suraIndex": "111",
+        "suraName": "Al-Masad",
+        "suraNameAr": "المسد",
+        "start": "verse_1",
+        "end": "verse_5"
+    },
+    {
+        "index": "554",
+        "manzil": "7",
+        "suraIndex": "112",
+        "suraName": "Al-Ikhlas",
+        "suraNameAr": "الإخلاص",
+        "start": "verse_1",
+        "end": "verse_4"
+    },
+    {
+        "index": "555",
+        "manzil": "7",
+        "suraIndex": "113",
+        "suraName": "Al-Falaq",
+        "suraNameAr": "الفلق",
+        "start": "verse_1",
+        "end": "verse_5"
+    },
+    {
+        "index": "556",
+        "manzil": "7",
+        "suraIndex": "114",
+        "suraName": "An-Nas",
+        "suraNameAr": "الناس",
+        "start": "verse_1",
+        "end": "verse_6"
+    }
+]

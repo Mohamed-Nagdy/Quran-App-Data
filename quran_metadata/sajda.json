@@ -1,0 +1,122 @@
+[
+    {
+        "index": "01",
+        "suraIndex": "007",
+        "verse": "verse_206",
+        "suraName": "Al-A'raf",
+        "suraNameAr": "الأعراف",
+        "obligatory": false
+    },
+    {
+        "index": "02",
+        "suraIndex": "013",
+        "verse": "verse_15",
+        "suraName": "Ar-Ra'd",
+        "suraNameAr": "الرعد",
+        "obligatory": false
+    },
+    {
+        "index": "03",
+        "suraIndex": "016",
+        "verse": "verse_50",
+        "suraName": "An-Nahl",
+        "suraNameAr": "النحل",
+        "obligatory": false
+    },
+    {
+        "index": "04",
+        "suraIndex": "017",
+        "verse": "verse_109",
+        "suraName": "Al-Israa",
+        "suraNameAr": "الإسراء",
+        "obligatory": false
+    },
+    {
+        "index": "05",
+        "suraIndex": "019",
+        "verse": "verse_58",
+        "suraName": "Maryam",
+        "suraNameAr": "مريم",
+        "obligatory": false
+    },
+    {
+        "index": "06",
+        "suraIndex": "022",
+        "verse": "verse_18",
+        "suraName": "Al-Hajj",
+        "suraNameAr": "الحج",
+        "obligatory": false
+    },
+    {
+        "index": "07",
+        "suraIndex": "022",
+        "verse": "verse_77",
+        "suraName": "Al-Hajj",
+        "suraNameAr": "الحج",
+        "obligatory": false
+    },
+    {
+        "index": "08",
+        "suraIndex": "025",
+        "verse": "verse_60",
+        "suraName": "Al-Furqan",
+        "suraNameAr": "الفرقان",
+        "obligatory": false
+    },
+    {
+        "index": "09",
+        "suraIndex": "027",
+        "verse": "verse_26",
+        "suraName": "An-Naml",
+        "suraNameAr": "النمل",
+        "obligatory": false
+    },
+    {
+        "index": "10",
+        "suraIndex": "032",
+        "verse": "verse_15",
+        "suraName": "As-Sajdah",
+        "suraNameAr": "السجدة",
+        "obligatory": true
+    },
+    {
+        "index": "11",
+        "suraIndex": "038",
+        "verse": "verse_24",
+        "suraName": "Sad",
+        "suraNameAr": "ص",
+        "obligatory": false
+    },
+    {
+        "index": "12",
+        "suraIndex": "041",
+        "verse": "verse_38",
+        "suraName": "Fussilat",
+        "suraNameAr": "فصلت",
+        "obligatory": true
+    },
+    {
+        "index": "13",
+        "suraIndex": "053",
+        "verse": "verse_62",
+        "suraName": "An-Najm",
+        "suraNameAr": "النجم",
+        "obligatory": true
+    },
+    {
+        "index": "14",
+        "suraIndex": "084",
+        "verse": "verse_21",
+        "suraName": "Al-Inshiqaq",
+        "suraNameAr": "الانشقاق",
+        "obligatory": false
+    },
+    {
+        "index": "15",
+        "suraIndex": "096",
+        "verse": "verse_19",
+        "suraName": "Al-Alaq",
+        "suraNameAr": "العلق",
+        "obligatory": true
+    }
+]

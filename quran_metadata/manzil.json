@@ -1,0 +1,114 @@
+[
+    {
+        "index": "1",
+        "start": {
+            "index": "001",
+            "verse": "verse_1",
+            "name": "Al-Fatiha",
+            "nameAr": "الفاتحة"
+        },
+        "end": {
+            "index": "004",
+            "verse": "verse_176",
+            "name": "An-Nisaa'",
+            "nameAr": "النساء"
+
+        }
+    },
+    {
+        "index": "2",
+        "start": {
+            "index": "005",
+            "verse": "verse_1",
+            "name": "Al-Ma'ida",
+            "nameAr": "المائدة"
+        },
+        "end": {
+            "index": "009",
+            "verse": "verse_129",
+            "name": "Al-Tawba",
+            "nameAr": "التوبة"
+
+        }
+    },
+    {
+        "index": "3",
+        "start": {
+            "index": "010",
+            "verse": "verse_1",
+            "name": "Yunus",
+            "nameAr": "يونس"
+        },
+        "end": {
+            "index": "016",
+            "verse": "verse_128",
+            "name": "An-Nahl",
+            "nameAr": "النحل"
+
+        }
+    },
+    {
+        "index": "4",
+        "start": {
+            "index": "017",
+            "verse": "verse_1",
+            "name": "Al-Israa",
+            "nameAr": "الإسراء"
+        },
+        "end": {
+            "index": "025",
+            "verse": "verse_77",
+            "name": "Al-Furqan",
+            "nameAr": "الفرقان"
+
+        }
+    },
+    {
+        "index": "5",
+        "start": {
+            "index": "026",
+            "verse": "verse_1",
+            "name": "Ash-Shuara",
+            "nameAr": "الشعراء"
+        },
+        "end": {
+            "index": "036",
+            "verse": "verse_83",
+            "name": "Yasin",
+            "nameAr": "يس"
+
+        }
+    },
+    {
+        "index": "6",
+        "start": {
+            "index": "037",
+            "verse": "verse_1",
+            "name": "As-Saffat",
+            "nameAr": "الصافات"
+        },
+        "end": {
+            "index": "049",
+            "verse": "verse_18",
+            "name": "Al-Hujurat",
+            "nameAr": "الحجرات"
+
+        }
+    },
+    {
+        "index": "7",
+        "start": {
+            "index": "050",
+            "verse": "verse_1",
+            "name": "Qaf",
+            "nameAr": "ق"
+        },
+        "end": {
+            "index": "114",
+            "verse": "verse_6",
+            "name": "An-Nas",
+            "nameAr": "الناس"
+
+        }
+    }
+]
